@@ -5,7 +5,8 @@
 ![motivation](./figs/motivation.png)
 
 ## Architecture
-The overall architecture of the proposed Transformer-based Dual Relation Graph (TDRG) network, the structural relation graph module to incorporate long-term contextual information, and the semantic relation graph module to model the dynamic class-wise dependencies.
+Overall framework of ADD-GCN. Given an image, ADD-GCN first uses a CNN backbone to extract convolutional feature maps X. Then, SAM decouples X to content-aware category representations V, and D-GCN models global and local
+relations among V to generate the final robust representations Z that contains rich relation information with other categories.
 ![enter description here](./figs/addgcn.png)
 
 
