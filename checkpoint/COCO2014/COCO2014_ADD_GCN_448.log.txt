@@ -22,7 +22,7 @@
 2022-10-03 17:22:44,612 INFO     cutmix_pretrained: False
 2022-10-03 17:22:44,612 INFO     data: COCO2014
 2022-10-03 17:22:44,612 INFO     model_name: ADD_GCN
-2022-10-03 17:22:44,612 INFO     save_dir: ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16
+2022-10-03 17:22:44,612 INFO     save_dir: ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2
 2022-10-03 17:22:44,612 INFO     evaluate: False
 2022-10-03 17:22:44,612 INFO     resume: 
 2022-10-03 17:22:44,612 INFO     display: True
@@ -69,8 +69,8 @@
 2022-10-03 17:53:00,310 INFO     OP: 0.805	 OR: 0.597	 OF1: 0.686	CP: 0.767	 CR: 0.531	 CF1: 0.628
 2022-10-03 17:53:00,310 INFO     OP_3: 0.843	 OR_3: 0.548	 OF1_3: 0.664	CP_3: 0.793	 CR_3: 0.488	 CF1_3: 0.604
 2022-10-03 17:53:00,311 INFO     Now lrp:0.00000250, lr:0.00002500
-2022-10-03 17:53:00,312 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 17:53:00,722 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 17:53:00,312 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 17:53:00,722 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 17:53:10,890 INFO      * best mAP=0.6811
 2022-10-03 17:53:11,678 INFO     2022-10-03 17:53:11, 2 Epoch, lrp:0.00000250, lr:0.00002500, 0 Iter, Loss: 0.0483, Data time: 0.3881, Batch time: 0.6898
 2022-10-03 17:55:12,397 INFO     2022-10-03 17:55:12, 2 Epoch, lrp:0.00000270, lr:0.00002695, 400 Iter, Loss: 0.0609, Data time: 0.0003, Batch time: 0.3028
@@ -107,8 +107,8 @@
 2022-10-03 18:23:20,611 INFO     OP: 0.850	 OR: 0.676	 OF1: 0.753	CP: 0.839	 CR: 0.632	 CF1: 0.721
 2022-10-03 18:23:20,611 INFO     OP_3: 0.886	 OR_3: 0.611	 OF1_3: 0.723	CP_3: 0.859	 CR_3: 0.574	 CF1_3: 0.688
 2022-10-03 18:23:20,611 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 18:23:20,613 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 18:23:21,056 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 18:23:20,613 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 18:23:21,056 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 18:23:31,370 INFO      * best mAP=0.7821
 2022-10-03 18:23:32,068 INFO     2022-10-03 18:23:32, 3 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0379, Data time: 0.3931, Batch time: 0.6958
 2022-10-03 18:25:32,655 INFO     2022-10-03 18:25:32, 3 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0586, Data time: 0.0003, Batch time: 0.3031
@@ -145,8 +145,8 @@
 2022-10-03 18:53:40,288 INFO     OP: 0.868	 OR: 0.692	 OF1: 0.770	CP: 0.866	 CR: 0.651	 CF1: 0.744
 2022-10-03 18:53:40,288 INFO     OP_3: 0.900	 OR_3: 0.628	 OF1_3: 0.740	CP_3: 0.891	 CR_3: 0.595	 CF1_3: 0.713
 2022-10-03 18:53:40,288 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 18:53:40,290 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 18:53:40,735 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 18:53:40,290 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 18:53:40,735 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 18:53:51,545 INFO      * best mAP=0.8064
 2022-10-03 18:53:52,258 INFO     2022-10-03 18:53:52, 4 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0550, Data time: 0.4116, Batch time: 0.7115
 2022-10-03 18:55:53,096 INFO     2022-10-03 18:55:53, 4 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0673, Data time: 0.0003, Batch time: 0.3032
@@ -183,8 +183,8 @@
 2022-10-03 19:24:01,368 INFO     OP: 0.885	 OR: 0.698	 OF1: 0.781	CP: 0.868	 CR: 0.669	 CF1: 0.756
 2022-10-03 19:24:01,368 INFO     OP_3: 0.915	 OR_3: 0.633	 OF1_3: 0.748	CP_3: 0.894	 CR_3: 0.611	 CF1_3: 0.726
 2022-10-03 19:24:01,368 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 19:24:01,371 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 19:24:01,858 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 19:24:01,371 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 19:24:01,858 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 19:24:12,331 INFO      * best mAP=0.8180
 2022-10-03 19:24:13,002 INFO     2022-10-03 19:24:13, 5 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0388, Data time: 0.3674, Batch time: 0.6687
 2022-10-03 19:26:13,576 INFO     2022-10-03 19:26:13, 5 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0383, Data time: 0.0003, Batch time: 0.3032
@@ -221,8 +221,8 @@
 2022-10-03 19:54:20,787 INFO     OP: 0.880	 OR: 0.712	 OF1: 0.787	CP: 0.873	 CR: 0.674	 CF1: 0.761
 2022-10-03 19:54:20,787 INFO     OP_3: 0.911	 OR_3: 0.642	 OF1_3: 0.753	CP_3: 0.898	 CR_3: 0.612	 CF1_3: 0.728
 2022-10-03 19:54:20,788 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 19:54:20,790 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 19:54:21,236 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 19:54:20,790 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 19:54:21,236 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 19:54:31,612 INFO      * best mAP=0.8234
 2022-10-03 19:54:32,342 INFO     2022-10-03 19:54:32, 6 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0485, Data time: 0.4246, Batch time: 0.7285
 2022-10-03 19:56:32,897 INFO     2022-10-03 19:56:32, 6 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0463, Data time: 0.0002, Batch time: 0.3019
@@ -259,8 +259,8 @@
 2022-10-03 20:24:37,960 INFO     OP: 0.860	 OR: 0.736	 OF1: 0.793	CP: 0.855	 CR: 0.705	 CF1: 0.773
 2022-10-03 20:24:37,960 INFO     OP_3: 0.908	 OR_3: 0.649	 OF1_3: 0.757	CP_3: 0.889	 CR_3: 0.626	 CF1_3: 0.735
 2022-10-03 20:24:37,960 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 20:24:37,962 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 20:24:38,402 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 20:24:37,962 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 20:24:38,402 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 20:24:48,780 INFO      * best mAP=0.8272
 2022-10-03 20:24:49,466 INFO     2022-10-03 20:24:49, 7 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0440, Data time: 0.3735, Batch time: 0.6803
 2022-10-03 20:26:50,281 INFO     2022-10-03 20:26:50, 7 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0538, Data time: 0.0003, Batch time: 0.3029
@@ -297,8 +297,8 @@
 2022-10-03 20:54:56,574 INFO     OP: 0.873	 OR: 0.728	 OF1: 0.794	CP: 0.864	 CR: 0.701	 CF1: 0.774
 2022-10-03 20:54:56,574 INFO     OP_3: 0.911	 OR_3: 0.650	 OF1_3: 0.759	CP_3: 0.893	 CR_3: 0.632	 CF1_3: 0.740
 2022-10-03 20:54:56,574 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 20:54:56,576 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 20:54:57,022 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 20:54:56,576 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 20:54:57,022 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 20:55:07,380 INFO      * best mAP=0.8296
 2022-10-03 20:55:08,092 INFO     2022-10-03 20:55:08, 8 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0231, Data time: 0.4051, Batch time: 0.7056
 2022-10-03 20:57:08,945 INFO     2022-10-03 20:57:08, 8 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0548, Data time: 0.0003, Batch time: 0.3025
@@ -335,8 +335,8 @@
 2022-10-03 21:25:17,013 INFO     OP: 0.881	 OR: 0.726	 OF1: 0.796	CP: 0.877	 CR: 0.690	 CF1: 0.772
 2022-10-03 21:25:17,013 INFO     OP_3: 0.920	 OR_3: 0.646	 OF1_3: 0.759	CP_3: 0.906	 CR_3: 0.619	 CF1_3: 0.735
 2022-10-03 21:25:17,014 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 21:25:17,016 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 21:25:17,449 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 21:25:17,016 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 21:25:17,449 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 21:25:27,856 INFO      * best mAP=0.8319
 2022-10-03 21:25:28,544 INFO     2022-10-03 21:25:28, 9 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0386, Data time: 0.3777, Batch time: 0.6822
 2022-10-03 21:27:29,206 INFO     2022-10-03 21:27:29, 9 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0676, Data time: 0.0003, Batch time: 0.3026
@@ -373,8 +373,8 @@
 2022-10-03 21:55:37,037 INFO     OP: 0.878	 OR: 0.733	 OF1: 0.799	CP: 0.871	 CR: 0.701	 CF1: 0.777
 2022-10-03 21:55:37,037 INFO     OP_3: 0.910	 OR_3: 0.656	 OF1_3: 0.763	CP_3: 0.897	 CR_3: 0.633	 CF1_3: 0.742
 2022-10-03 21:55:37,037 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 21:55:37,039 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 21:55:37,506 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 21:55:37,039 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 21:55:37,506 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 21:55:49,310 INFO      * best mAP=0.8336
 2022-10-03 21:55:49,995 INFO     2022-10-03 21:55:49, 10 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0313, Data time: 0.3737, Batch time: 0.6794
 2022-10-03 21:57:51,081 INFO     2022-10-03 21:57:51, 10 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0573, Data time: 0.0003, Batch time: 0.3044
@@ -411,8 +411,8 @@
 2022-10-03 22:26:01,790 INFO     OP: 0.882	 OR: 0.731	 OF1: 0.800	CP: 0.873	 CR: 0.703	 CF1: 0.778
 2022-10-03 22:26:01,791 INFO     OP_3: 0.917	 OR_3: 0.653	 OF1_3: 0.763	CP_3: 0.901	 CR_3: 0.632	 CF1_3: 0.743
 2022-10-03 22:26:01,791 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 22:26:01,793 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 22:26:02,276 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 22:26:01,793 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 22:26:02,276 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 22:26:13,319 INFO      * best mAP=0.8358
 2022-10-03 22:26:13,976 INFO     2022-10-03 22:26:13, 11 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0370, Data time: 0.3471, Batch time: 0.6512
 2022-10-03 22:28:15,055 INFO     2022-10-03 22:28:15, 11 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0322, Data time: 0.0003, Batch time: 0.3041
@@ -449,8 +449,8 @@
 2022-10-03 22:56:25,237 INFO     OP: 0.875	 OR: 0.740	 OF1: 0.802	CP: 0.870	 CR: 0.707	 CF1: 0.780
 2022-10-03 22:56:25,237 INFO     OP_3: 0.912	 OR_3: 0.658	 OF1_3: 0.764	CP_3: 0.900	 CR_3: 0.633	 CF1_3: 0.744
 2022-10-03 22:56:25,237 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 22:56:25,239 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 22:56:25,677 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 22:56:25,239 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 22:56:25,677 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 22:56:35,793 INFO      * best mAP=0.8366
 2022-10-03 22:56:36,451 INFO     2022-10-03 22:56:36, 12 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0198, Data time: 0.3473, Batch time: 0.6510
 2022-10-03 22:58:37,572 INFO     2022-10-03 22:58:37, 12 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0364, Data time: 0.0003, Batch time: 0.3043
@@ -487,8 +487,8 @@
 2022-10-03 23:26:48,587 INFO     OP: 0.879	 OR: 0.736	 OF1: 0.801	CP: 0.864	 CR: 0.708	 CF1: 0.778
 2022-10-03 23:26:48,587 INFO     OP_3: 0.913	 OR_3: 0.658	 OF1_3: 0.765	CP_3: 0.893	 CR_3: 0.637	 CF1_3: 0.743
 2022-10-03 23:26:48,587 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 23:26:48,589 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 23:26:48,907 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 23:26:48,589 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 23:26:48,907 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 23:26:58,931 INFO      * best mAP=0.8366
 2022-10-03 23:26:59,584 INFO     2022-10-03 23:26:59, 13 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0224, Data time: 0.3458, Batch time: 0.6468
 2022-10-03 23:29:00,638 INFO     2022-10-03 23:29:00, 13 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0381, Data time: 0.0003, Batch time: 0.3040
@@ -525,8 +525,8 @@
 2022-10-03 23:57:09,629 INFO     OP: 0.871	 OR: 0.745	 OF1: 0.803	CP: 0.860	 CR: 0.719	 CF1: 0.783
 2022-10-03 23:57:09,629 INFO     OP_3: 0.909	 OR_3: 0.662	 OF1_3: 0.766	CP_3: 0.893	 CR_3: 0.646	 CF1_3: 0.750
 2022-10-03 23:57:09,629 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-03 23:57:09,631 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-03 23:57:10,124 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-03 23:57:09,631 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-03 23:57:10,124 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-03 23:57:20,790 INFO      * best mAP=0.8377
 2022-10-03 23:57:21,498 INFO     2022-10-03 23:57:21, 14 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0147, Data time: 0.4033, Batch time: 0.7027
 2022-10-03 23:59:22,517 INFO     2022-10-03 23:59:22, 14 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0514, Data time: 0.0003, Batch time: 0.3032
@@ -563,8 +563,8 @@
 2022-10-04 00:27:32,110 INFO     OP: 0.881	 OR: 0.738	 OF1: 0.803	CP: 0.868	 CR: 0.710	 CF1: 0.781
 2022-10-04 00:27:32,110 INFO     OP_3: 0.914	 OR_3: 0.659	 OF1_3: 0.766	CP_3: 0.898	 CR_3: 0.639	 CF1_3: 0.747
 2022-10-04 00:27:32,111 INFO     Now lrp:0.00000500, lr:0.00005000
-2022-10-04 00:27:32,112 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 00:27:32,431 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 00:27:32,112 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 00:27:32,431 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 00:27:42,508 INFO      * best mAP=0.8377
 2022-10-04 00:27:43,200 INFO     2022-10-04 00:27:43, 15 Epoch, lrp:0.00000500, lr:0.00005000, 0 Iter, Loss: 0.0457, Data time: 0.3782, Batch time: 0.6866
 2022-10-04 00:29:44,257 INFO     2022-10-04 00:29:44, 15 Epoch, lrp:0.00000500, lr:0.00005000, 400 Iter, Loss: 0.0232, Data time: 0.0003, Batch time: 0.3037
@@ -601,8 +601,8 @@
 2022-10-04 00:57:54,519 INFO     OP: 0.867	 OR: 0.750	 OF1: 0.804	CP: 0.853	 CR: 0.723	 CF1: 0.783
 2022-10-04 00:57:54,519 INFO     OP_3: 0.909	 OR_3: 0.662	 OF1_3: 0.766	CP_3: 0.887	 CR_3: 0.646	 CF1_3: 0.748
 2022-10-04 00:57:54,519 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 00:57:54,521 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 00:57:54,840 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 00:57:54,521 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 00:57:54,840 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 00:58:05,038 INFO      * best mAP=0.8377
 2022-10-04 00:58:05,691 INFO     2022-10-04 00:58:05, 16 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0317, Data time: 0.3447, Batch time: 0.6477
 2022-10-04 01:00:06,993 INFO     2022-10-04 01:00:06, 16 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0416, Data time: 0.0003, Batch time: 0.3040
@@ -639,8 +639,8 @@
 2022-10-04 01:28:17,587 INFO     OP: 0.868	 OR: 0.758	 OF1: 0.809	CP: 0.857	 CR: 0.729	 CF1: 0.787
 2022-10-04 01:28:17,587 INFO     OP_3: 0.910	 OR_3: 0.668	 OF1_3: 0.771	CP_3: 0.892	 CR_3: 0.650	 CF1_3: 0.752
 2022-10-04 01:28:17,587 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 01:28:17,589 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 01:28:18,027 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 01:28:17,589 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 01:28:18,027 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 01:28:28,135 INFO      * best mAP=0.8402
 2022-10-04 01:28:28,789 INFO     2022-10-04 01:28:28, 17 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0281, Data time: 0.3480, Batch time: 0.6485
 2022-10-04 01:30:29,893 INFO     2022-10-04 01:30:29, 17 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0637, Data time: 0.0003, Batch time: 0.3040
@@ -677,8 +677,8 @@
 2022-10-04 01:58:39,246 INFO     OP: 0.872	 OR: 0.755	 OF1: 0.809	CP: 0.860	 CR: 0.725	 CF1: 0.787
 2022-10-04 01:58:39,246 INFO     OP_3: 0.912	 OR_3: 0.667	 OF1_3: 0.771	CP_3: 0.894	 CR_3: 0.648	 CF1_3: 0.751
 2022-10-04 01:58:39,246 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 01:58:39,248 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 01:58:39,718 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 01:58:39,248 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 01:58:39,718 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 01:58:49,854 INFO      * best mAP=0.8407
 2022-10-04 01:58:50,533 INFO     2022-10-04 01:58:50, 18 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0410, Data time: 0.3718, Batch time: 0.6747
 2022-10-04 02:00:51,911 INFO     2022-10-04 02:00:51, 18 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0472, Data time: 0.0003, Batch time: 0.3047
@@ -715,8 +715,8 @@
 2022-10-04 02:29:04,648 INFO     OP: 0.869	 OR: 0.759	 OF1: 0.810	CP: 0.858	 CR: 0.727	 CF1: 0.787
 2022-10-04 02:29:04,649 INFO     OP_3: 0.912	 OR_3: 0.668	 OF1_3: 0.771	CP_3: 0.895	 CR_3: 0.647	 CF1_3: 0.751
 2022-10-04 02:29:04,649 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 02:29:04,651 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 02:29:04,969 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 02:29:04,651 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 02:29:04,969 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 02:29:15,040 INFO      * best mAP=0.8407
 2022-10-04 02:29:15,740 INFO     2022-10-04 02:29:15, 19 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0317, Data time: 0.3923, Batch time: 0.6950
 2022-10-04 02:31:17,053 INFO     2022-10-04 02:31:17, 19 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0205, Data time: 0.0002, Batch time: 0.3040
@@ -753,8 +753,8 @@
 2022-10-04 02:59:28,158 INFO     OP: 0.869	 OR: 0.758	 OF1: 0.810	CP: 0.856	 CR: 0.729	 CF1: 0.787
 2022-10-04 02:59:28,158 INFO     OP_3: 0.911	 OR_3: 0.668	 OF1_3: 0.771	CP_3: 0.892	 CR_3: 0.650	 CF1_3: 0.752
 2022-10-04 02:59:28,159 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 02:59:28,161 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 02:59:28,579 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 02:59:28,161 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 02:59:28,579 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 02:59:38,323 INFO      * best mAP=0.8412
 2022-10-04 02:59:38,974 INFO     2022-10-04 02:59:38, 20 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0315, Data time: 0.3471, Batch time: 0.6475
 2022-10-04 03:01:40,274 INFO     2022-10-04 03:01:40, 20 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0389, Data time: 0.0003, Batch time: 0.3044
@@ -791,8 +791,8 @@
 2022-10-04 03:29:51,679 INFO     OP: 0.863	 OR: 0.764	 OF1: 0.810	CP: 0.851	 CR: 0.734	 CF1: 0.788
 2022-10-04 03:29:51,679 INFO     OP_3: 0.907	 OR_3: 0.670	 OF1_3: 0.771	CP_3: 0.888	 CR_3: 0.652	 CF1_3: 0.752
 2022-10-04 03:29:51,679 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 03:29:51,681 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 03:29:52,001 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 03:29:51,681 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 03:29:52,001 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 03:30:02,099 INFO      * best mAP=0.8412
 2022-10-04 03:30:02,784 INFO     2022-10-04 03:30:02, 21 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0295, Data time: 0.3803, Batch time: 0.6799
 2022-10-04 03:32:03,834 INFO     2022-10-04 03:32:03, 21 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0399, Data time: 0.0003, Batch time: 0.3037
@@ -829,8 +829,8 @@
 2022-10-04 04:00:13,564 INFO     OP: 0.869	 OR: 0.758	 OF1: 0.810	CP: 0.855	 CR: 0.730	 CF1: 0.788
 2022-10-04 04:00:13,564 INFO     OP_3: 0.910	 OR_3: 0.669	 OF1_3: 0.771	CP_3: 0.891	 CR_3: 0.651	 CF1_3: 0.753
 2022-10-04 04:00:13,565 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 04:00:13,567 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 04:00:13,887 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 04:00:13,567 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 04:00:13,887 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 04:00:24,025 INFO      * best mAP=0.8412
 2022-10-04 04:00:24,699 INFO     2022-10-04 04:00:24, 22 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0352, Data time: 0.3678, Batch time: 0.6695
 2022-10-04 04:02:25,923 INFO     2022-10-04 04:02:25, 22 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0480, Data time: 0.0003, Batch time: 0.3041
@@ -867,8 +867,8 @@
 2022-10-04 04:30:37,306 INFO     OP: 0.865	 OR: 0.764	 OF1: 0.811	CP: 0.853	 CR: 0.735	 CF1: 0.790
 2022-10-04 04:30:37,306 INFO     OP_3: 0.909	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.889	 CR_3: 0.653	 CF1_3: 0.753
 2022-10-04 04:30:37,306 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 04:30:37,308 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 04:30:37,745 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 04:30:37,308 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 04:30:37,745 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 04:30:47,863 INFO      * best mAP=0.8412
 2022-10-04 04:30:48,534 INFO     2022-10-04 04:30:48, 23 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0279, Data time: 0.3622, Batch time: 0.6667
 2022-10-04 04:32:49,702 INFO     2022-10-04 04:32:49, 23 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0296, Data time: 0.0003, Batch time: 0.3044
@@ -905,8 +905,8 @@
 2022-10-04 05:01:01,079 INFO     OP: 0.871	 OR: 0.757	 OF1: 0.810	CP: 0.858	 CR: 0.729	 CF1: 0.788
 2022-10-04 05:01:01,079 INFO     OP_3: 0.911	 OR_3: 0.669	 OF1_3: 0.771	CP_3: 0.891	 CR_3: 0.651	 CF1_3: 0.753
 2022-10-04 05:01:01,079 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 05:01:01,081 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 05:01:01,419 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 05:01:01,081 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 05:01:01,419 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 05:01:11,491 INFO      * best mAP=0.8412
 2022-10-04 05:01:12,147 INFO     2022-10-04 05:01:12, 24 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0428, Data time: 0.3527, Batch time: 0.6526
 2022-10-04 05:03:13,200 INFO     2022-10-04 05:03:13, 24 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0247, Data time: 0.0002, Batch time: 0.3034
@@ -943,8 +943,8 @@
 2022-10-04 05:31:22,257 INFO     OP: 0.870	 OR: 0.759	 OF1: 0.811	CP: 0.859	 CR: 0.730	 CF1: 0.789
 2022-10-04 05:31:22,257 INFO     OP_3: 0.911	 OR_3: 0.669	 OF1_3: 0.772	CP_3: 0.893	 CR_3: 0.651	 CF1_3: 0.753
 2022-10-04 05:31:22,257 INFO     Now lrp:0.00000050, lr:0.00000500
-2022-10-04 05:31:22,259 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 05:31:22,573 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 05:31:22,259 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 05:31:22,573 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 05:31:32,290 INFO      * best mAP=0.8412
 2022-10-04 05:31:32,950 INFO     2022-10-04 05:31:32, 25 Epoch, lrp:0.00000050, lr:0.00000500, 0 Iter, Loss: 0.0466, Data time: 0.3501, Batch time: 0.6549
 2022-10-04 05:33:33,881 INFO     2022-10-04 05:33:33, 25 Epoch, lrp:0.00000050, lr:0.00000500, 400 Iter, Loss: 0.0369, Data time: 0.0002, Batch time: 0.3038
@@ -981,8 +981,8 @@
 2022-10-04 06:01:43,406 INFO     OP: 0.870	 OR: 0.758	 OF1: 0.810	CP: 0.855	 CR: 0.730	 CF1: 0.788
 2022-10-04 06:01:43,406 INFO     OP_3: 0.913	 OR_3: 0.667	 OF1_3: 0.771	CP_3: 0.891	 CR_3: 0.650	 CF1_3: 0.752
 2022-10-04 06:01:43,406 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 06:01:43,408 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 06:01:43,726 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 06:01:43,408 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 06:01:43,726 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 06:01:54,035 INFO      * best mAP=0.8412
 2022-10-04 06:01:54,681 INFO     2022-10-04 06:01:54, 26 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0312, Data time: 0.3405, Batch time: 0.6423
 2022-10-04 06:03:55,993 INFO     2022-10-04 06:03:55, 26 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0412, Data time: 0.0003, Batch time: 0.3045
@@ -1019,8 +1019,8 @@
 2022-10-04 06:32:07,861 INFO     OP: 0.868	 OR: 0.761	 OF1: 0.811	CP: 0.856	 CR: 0.731	 CF1: 0.789
 2022-10-04 06:32:07,861 INFO     OP_3: 0.911	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.891	 CR_3: 0.651	 CF1_3: 0.752
 2022-10-04 06:32:07,862 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 06:32:07,864 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 06:32:08,196 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 06:32:07,864 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 06:32:08,196 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 06:32:18,257 INFO      * best mAP=0.8412
 2022-10-04 06:32:18,918 INFO     2022-10-04 06:32:18, 27 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0286, Data time: 0.3527, Batch time: 0.6576
 2022-10-04 06:34:20,338 INFO     2022-10-04 06:34:20, 27 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0256, Data time: 0.0003, Batch time: 0.3051
@@ -1057,8 +1057,8 @@
 2022-10-04 07:02:33,843 INFO     OP: 0.867	 OR: 0.760	 OF1: 0.810	CP: 0.855	 CR: 0.732	 CF1: 0.789
 2022-10-04 07:02:33,843 INFO     OP_3: 0.910	 OR_3: 0.669	 OF1_3: 0.772	CP_3: 0.890	 CR_3: 0.651	 CF1_3: 0.752
 2022-10-04 07:02:33,843 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 07:02:33,845 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 07:02:34,159 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 07:02:33,845 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 07:02:34,159 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 07:02:44,261 INFO      * best mAP=0.8412
 2022-10-04 07:02:44,913 INFO     2022-10-04 07:02:44, 28 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0347, Data time: 0.3440, Batch time: 0.6488
 2022-10-04 07:04:46,065 INFO     2022-10-04 07:04:46, 28 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0318, Data time: 0.0003, Batch time: 0.3046
@@ -1095,8 +1095,8 @@
 2022-10-04 07:32:57,081 INFO     OP: 0.866	 OR: 0.762	 OF1: 0.811	CP: 0.853	 CR: 0.734	 CF1: 0.789
 2022-10-04 07:32:57,081 INFO     OP_3: 0.910	 OR_3: 0.670	 OF1_3: 0.771	CP_3: 0.888	 CR_3: 0.653	 CF1_3: 0.752
 2022-10-04 07:32:57,081 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 07:32:57,083 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 07:32:57,422 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 07:32:57,083 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 07:32:57,422 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 07:33:07,145 INFO      * best mAP=0.8412
 2022-10-04 07:33:07,798 INFO     2022-10-04 07:33:07, 29 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0344, Data time: 0.3478, Batch time: 0.6488
 2022-10-04 07:35:08,862 INFO     2022-10-04 07:35:08, 29 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0274, Data time: 0.0002, Batch time: 0.3042
@@ -1133,8 +1133,8 @@
 2022-10-04 08:03:17,710 INFO     OP: 0.863	 OR: 0.764	 OF1: 0.811	CP: 0.852	 CR: 0.735	 CF1: 0.789
 2022-10-04 08:03:17,710 INFO     OP_3: 0.908	 OR_3: 0.671	 OF1_3: 0.772	CP_3: 0.889	 CR_3: 0.652	 CF1_3: 0.752
 2022-10-04 08:03:17,710 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 08:03:17,712 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 08:03:18,031 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 08:03:17,712 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 08:03:18,031 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 08:03:27,771 INFO      * best mAP=0.8412
 2022-10-04 08:03:28,500 INFO     2022-10-04 08:03:28, 30 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0382, Data time: 0.4260, Batch time: 0.7243
 2022-10-04 08:05:29,680 INFO     2022-10-04 08:05:29, 30 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0325, Data time: 0.0003, Batch time: 0.3045
@@ -1171,8 +1171,8 @@
 2022-10-04 08:33:41,595 INFO     OP: 0.871	 OR: 0.758	 OF1: 0.810	CP: 0.859	 CR: 0.729	 CF1: 0.788
 2022-10-04 08:33:41,595 INFO     OP_3: 0.912	 OR_3: 0.668	 OF1_3: 0.771	CP_3: 0.892	 CR_3: 0.650	 CF1_3: 0.752
 2022-10-04 08:33:41,595 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 08:33:41,597 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 08:33:41,919 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 08:33:41,597 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 08:33:41,919 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 08:33:52,027 INFO      * best mAP=0.8412
 2022-10-04 08:33:52,718 INFO     2022-10-04 08:33:52, 31 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0281, Data time: 0.3820, Batch time: 0.6856
 2022-10-04 08:35:53,619 INFO     2022-10-04 08:35:53, 31 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0252, Data time: 0.0003, Batch time: 0.3035
@@ -1209,8 +1209,8 @@
 2022-10-04 09:04:03,150 INFO     OP: 0.866	 OR: 0.763	 OF1: 0.811	CP: 0.855	 CR: 0.733	 CF1: 0.789
 2022-10-04 09:04:03,151 INFO     OP_3: 0.910	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.891	 CR_3: 0.651	 CF1_3: 0.752
 2022-10-04 09:04:03,151 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 09:04:03,153 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 09:04:03,473 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 09:04:03,153 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 09:04:03,473 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 09:04:13,529 INFO      * best mAP=0.8412
 2022-10-04 09:04:14,178 INFO     2022-10-04 09:04:14, 32 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0209, Data time: 0.3453, Batch time: 0.6454
 2022-10-04 09:06:14,721 INFO     2022-10-04 09:06:14, 32 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0510, Data time: 0.0003, Batch time: 0.3025
@@ -1247,8 +1247,8 @@
 2022-10-04 09:34:22,244 INFO     OP: 0.866	 OR: 0.762	 OF1: 0.811	CP: 0.854	 CR: 0.733	 CF1: 0.789
 2022-10-04 09:34:22,244 INFO     OP_3: 0.910	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.889	 CR_3: 0.652	 CF1_3: 0.752
 2022-10-04 09:34:22,245 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 09:34:22,247 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 09:34:22,561 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 09:34:22,247 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 09:34:22,561 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 09:34:32,939 INFO      * best mAP=0.8412
 2022-10-04 09:34:33,592 INFO     2022-10-04 09:34:33, 33 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0267, Data time: 0.3478, Batch time: 0.6494
 2022-10-04 09:36:34,467 INFO     2022-10-04 09:36:34, 33 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0376, Data time: 0.0003, Batch time: 0.3030
@@ -1285,7 +1285,614 @@
 2022-10-04 10:04:44,959 INFO     OP: 0.868	 OR: 0.761	 OF1: 0.811	CP: 0.856	 CR: 0.732	 CF1: 0.789
 2022-10-04 10:04:44,959 INFO     OP_3: 0.911	 OR_3: 0.669	 OF1_3: 0.772	CP_3: 0.891	 CR_3: 0.652	 CF1_3: 0.753
 2022-10-04 10:04:44,959 INFO     Now lrp:0.00000005, lr:0.00000050
-2022-10-04 10:04:44,961 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/checkpoint.pth
-2022-10-04 10:04:45,314 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16/results.csv
+2022-10-04 10:04:44,961 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 10:04:45,314 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
 2022-10-04 10:04:55,403 INFO      * best mAP=0.8412
 2022-10-04 10:04:56,089 INFO     2022-10-04 10:04:56, 34 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0301, Data time: 0.3736, Batch time: 0.6795
+2022-10-04 10:06:57,087 INFO     2022-10-04 10:06:57, 34 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0333, Data time: 0.0003, Batch time: 0.3040
+2022-10-04 10:08:58,529 INFO     2022-10-04 10:08:58, 34 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0288, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 10:10:59,825 INFO     2022-10-04 10:10:59, 34 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0168, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 10:13:01,275 INFO     2022-10-04 10:13:01, 34 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0292, Data time: 0.0003, Batch time: 0.3037
+2022-10-04 10:15:02,645 INFO     2022-10-04 10:15:02, 34 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0326, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 10:17:04,008 INFO     2022-10-04 10:17:04, 34 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0480, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 10:19:05,358 INFO     2022-10-04 10:19:05, 34 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0212, Data time: 0.0003, Batch time: 0.3034
+2022-10-04 10:21:06,731 INFO     2022-10-04 10:21:06, 34 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0451, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 10:23:08,155 INFO     2022-10-04 10:23:08, 34 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0251, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 10:25:09,573 INFO     2022-10-04 10:25:09, 34 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0324, Data time: 0.0003, Batch time: 0.3030
+2022-10-04 10:27:11,131 INFO     2022-10-04 10:27:11, 34 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0293, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 10:29:12,610 INFO     2022-10-04 10:29:12, 34 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0391, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 10:30:52,614 INFO     ====== star eval ======
+2022-10-04 10:30:53,041 INFO     2022-10-04 10:30:53, 34 Epoch, 0 Iter, Loss: 0.0961, Data time: 0.3377, Batch time: 0.4259
+2022-10-04 10:31:27,944 INFO     2022-10-04 10:31:27, 34 Epoch, 400 Iter, Loss: 0.0029, Data time: 0.0003, Batch time: 0.0873
+2022-10-04 10:32:02,864 INFO     2022-10-04 10:32:02, 34 Epoch, 800 Iter, Loss: 0.0306, Data time: 0.0003, Batch time: 0.0873
+2022-10-04 10:32:37,778 INFO     2022-10-04 10:32:37, 34 Epoch, 1200 Iter, Loss: 0.0290, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 10:33:12,706 INFO     2022-10-04 10:33:12, 34 Epoch, 1600 Iter, Loss: 0.0355, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 10:33:47,638 INFO     2022-10-04 10:33:47, 34 Epoch, 2000 Iter, Loss: 0.0192, Data time: 0.0003, Batch time: 0.0872
+2022-10-04 10:34:22,561 INFO     2022-10-04 10:34:22, 34 Epoch, 2400 Iter, Loss: 0.0332, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 10:35:06,335 INFO     * Test
+2022-10-04 10:35:06,335 INFO     tensor([0.9639, 0.7131, 0.5396, 0.8689, 0.9525, 0.9584, 0.9718, 0.8925, 0.6859,
+        0.8059, 0.8210, 0.9091, 0.7055, 0.7573, 0.7602, 0.9346, 0.8916, 0.8428,
+        0.8926, 0.8134, 0.9651, 0.6927, 0.8057, 0.8332, 0.8405, 0.9313, 0.7814,
+        0.8015, 0.9092, 0.8556, 0.9850, 0.8585, 0.7947, 0.9390, 0.9953, 0.3875,
+        0.5731, 0.9434, 0.8086, 0.8962, 0.9699, 0.7164, 0.9064, 0.8295, 0.9391,
+        0.8859, 0.8274, 0.8863, 0.7001, 0.9915, 0.9477, 0.7097, 0.8202, 0.8254,
+        0.7767, 0.6779, 0.9579, 0.9194, 0.9722, 0.9528, 0.8774, 0.6656, 0.8805,
+        0.8133, 0.7768, 0.9635, 0.8810, 0.9901, 0.8554, 0.3529, 0.9781, 0.7392,
+        0.8633, 0.9677, 0.7656, 0.8958, 0.8729, 0.8065, 0.7927, 0.9947])
+2022-10-04 10:35:06,337 INFO     * Loss: 0.0411	 mAP: 0.8403	Data_time: 0.0004	 Batch_time: 0.0873
+2022-10-04 10:35:06,337 INFO     OP: 0.866	 OR: 0.762	 OF1: 0.811	CP: 0.854	 CR: 0.733	 CF1: 0.789
+2022-10-04 10:35:06,337 INFO     OP_3: 0.909	 OR_3: 0.670	 OF1_3: 0.771	CP_3: 0.889	 CR_3: 0.652	 CF1_3: 0.752
+2022-10-04 10:35:06,337 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 10:35:06,339 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 10:35:06,655 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 10:35:17,083 INFO      * best mAP=0.8412
+2022-10-04 10:35:17,803 INFO     2022-10-04 10:35:17, 35 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0225, Data time: 0.4095, Batch time: 0.7106
+2022-10-04 10:37:18,635 INFO     2022-10-04 10:37:18, 35 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0204, Data time: 0.0003, Batch time: 0.3037
+2022-10-04 10:39:20,051 INFO     2022-10-04 10:39:20, 35 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0342, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 10:41:21,311 INFO     2022-10-04 10:41:21, 35 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0515, Data time: 0.0003, Batch time: 0.3025
+2022-10-04 10:43:22,629 INFO     2022-10-04 10:43:22, 35 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0240, Data time: 0.0003, Batch time: 0.3023
+2022-10-04 10:45:24,020 INFO     2022-10-04 10:45:24, 35 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0299, Data time: 0.0003, Batch time: 0.3035
+2022-10-04 10:47:25,409 INFO     2022-10-04 10:47:25, 35 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0171, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 10:49:26,817 INFO     2022-10-04 10:49:26, 35 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0263, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 10:51:28,251 INFO     2022-10-04 10:51:28, 35 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0261, Data time: 0.0003, Batch time: 0.3037
+2022-10-04 10:53:29,664 INFO     2022-10-04 10:53:29, 35 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0256, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 10:55:31,150 INFO     2022-10-04 10:55:31, 35 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0261, Data time: 0.0003, Batch time: 0.3039
+2022-10-04 10:57:32,593 INFO     2022-10-04 10:57:32, 35 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0233, Data time: 0.0003, Batch time: 0.3039
+2022-10-04 10:59:34,024 INFO     2022-10-04 10:59:34, 35 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0232, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 11:01:13,920 INFO     ====== star eval ======
+2022-10-04 11:01:14,342 INFO     2022-10-04 11:01:14, 35 Epoch, 0 Iter, Loss: 0.0985, Data time: 0.3318, Batch time: 0.4207
+2022-10-04 11:01:49,191 INFO     2022-10-04 11:01:49, 35 Epoch, 400 Iter, Loss: 0.0035, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 11:02:24,059 INFO     2022-10-04 11:02:24, 35 Epoch, 800 Iter, Loss: 0.0311, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 11:02:58,930 INFO     2022-10-04 11:02:58, 35 Epoch, 1200 Iter, Loss: 0.0294, Data time: 0.0003, Batch time: 0.0871
+2022-10-04 11:03:33,801 INFO     2022-10-04 11:03:33, 35 Epoch, 1600 Iter, Loss: 0.0353, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 11:04:08,676 INFO     2022-10-04 11:04:08, 35 Epoch, 2000 Iter, Loss: 0.0185, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 11:04:43,542 INFO     2022-10-04 11:04:43, 35 Epoch, 2400 Iter, Loss: 0.0331, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 11:05:25,891 INFO     * Test
+2022-10-04 11:05:25,891 INFO     tensor([0.9651, 0.7133, 0.5393, 0.8694, 0.9533, 0.9577, 0.9716, 0.8922, 0.6878,
+        0.8039, 0.8213, 0.9093, 0.7052, 0.7571, 0.7617, 0.9344, 0.8911, 0.8418,
+        0.8932, 0.8137, 0.9650, 0.6927, 0.8059, 0.8330, 0.8412, 0.9312, 0.7815,
+        0.8015, 0.9100, 0.8564, 0.9849, 0.8608, 0.7944, 0.9396, 0.9952, 0.3946,
+        0.5723, 0.9445, 0.8063, 0.8978, 0.9704, 0.7169, 0.9063, 0.8333, 0.9398,
+        0.8848, 0.8254, 0.8870, 0.7020, 0.9915, 0.9482, 0.7104, 0.8215, 0.8254,
+        0.7762, 0.6775, 0.9576, 0.9193, 0.9730, 0.9527, 0.8769, 0.6641, 0.8803,
+        0.8125, 0.7791, 0.9639, 0.8823, 0.9901, 0.8566, 0.3525, 0.9780, 0.7407,
+        0.8639, 0.9684, 0.7660, 0.8960, 0.8742, 0.8064, 0.7927, 0.9949])
+2022-10-04 11:05:25,892 INFO     * Loss: 0.0411	 mAP: 0.8406	Data_time: 0.0004	 Batch_time: 0.0872
+2022-10-04 11:05:25,892 INFO     OP: 0.867	 OR: 0.762	 OF1: 0.811	CP: 0.856	 CR: 0.733	 CF1: 0.790
+2022-10-04 11:05:25,892 INFO     OP_3: 0.910	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.891	 CR_3: 0.652	 CF1_3: 0.753
+2022-10-04 11:05:25,892 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 11:05:25,894 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 11:05:26,260 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 11:05:36,198 INFO      * best mAP=0.8412
+2022-10-04 11:05:36,908 INFO     2022-10-04 11:05:36, 36 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0234, Data time: 0.4048, Batch time: 0.7045
+2022-10-04 11:07:37,693 INFO     2022-10-04 11:07:37, 36 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0261, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 11:09:39,052 INFO     2022-10-04 11:09:39, 36 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0372, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 11:11:40,291 INFO     2022-10-04 11:11:40, 36 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0399, Data time: 0.0004, Batch time: 0.3020
+2022-10-04 11:13:41,607 INFO     2022-10-04 11:13:41, 36 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0387, Data time: 0.0003, Batch time: 0.3037
+2022-10-04 11:15:42,874 INFO     2022-10-04 11:15:42, 36 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0223, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 11:17:44,246 INFO     2022-10-04 11:17:44, 36 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0564, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 11:19:45,581 INFO     2022-10-04 11:19:45, 36 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0186, Data time: 0.0003, Batch time: 0.3026
+2022-10-04 11:21:46,995 INFO     2022-10-04 11:21:46, 36 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0184, Data time: 0.0003, Batch time: 0.3037
+2022-10-04 11:23:48,324 INFO     2022-10-04 11:23:48, 36 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0372, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 11:25:49,496 INFO     2022-10-04 11:25:49, 36 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0341, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 11:27:50,694 INFO     2022-10-04 11:27:50, 36 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0228, Data time: 0.0003, Batch time: 0.3025
+2022-10-04 11:29:51,911 INFO     2022-10-04 11:29:51, 36 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0203, Data time: 0.0004, Batch time: 0.3021
+2022-10-04 11:31:31,638 INFO     ====== star eval ======
+2022-10-04 11:31:32,055 INFO     2022-10-04 11:31:32, 36 Epoch, 0 Iter, Loss: 0.0987, Data time: 0.3241, Batch time: 0.4147
+2022-10-04 11:32:06,908 INFO     2022-10-04 11:32:06, 36 Epoch, 400 Iter, Loss: 0.0032, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 11:32:41,776 INFO     2022-10-04 11:32:41, 36 Epoch, 800 Iter, Loss: 0.0313, Data time: 0.0002, Batch time: 0.0870
+2022-10-04 11:33:16,643 INFO     2022-10-04 11:33:16, 36 Epoch, 1200 Iter, Loss: 0.0296, Data time: 0.0002, Batch time: 0.0870
+2022-10-04 11:33:51,503 INFO     2022-10-04 11:33:51, 36 Epoch, 1600 Iter, Loss: 0.0351, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 11:34:26,359 INFO     2022-10-04 11:34:26, 36 Epoch, 2000 Iter, Loss: 0.0180, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 11:35:01,217 INFO     2022-10-04 11:35:01, 36 Epoch, 2400 Iter, Loss: 0.0327, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 11:35:44,470 INFO     * Test
+2022-10-04 11:35:44,470 INFO     tensor([0.9648, 0.7144, 0.5408, 0.8701, 0.9532, 0.9578, 0.9707, 0.8930, 0.6876,
+        0.8085, 0.8191, 0.9097, 0.7056, 0.7562, 0.7613, 0.9347, 0.8912, 0.8420,
+        0.8934, 0.8142, 0.9647, 0.6922, 0.8061, 0.8332, 0.8408, 0.9318, 0.7810,
+        0.8006, 0.9103, 0.8565, 0.9846, 0.8619, 0.7948, 0.9393, 0.9952, 0.3919,
+        0.5720, 0.9447, 0.8085, 0.8969, 0.9702, 0.7178, 0.9075, 0.8314, 0.9396,
+        0.8859, 0.8271, 0.8878, 0.7014, 0.9914, 0.9480, 0.7104, 0.8208, 0.8263,
+        0.7781, 0.6792, 0.9576, 0.9195, 0.9722, 0.9536, 0.8751, 0.6650, 0.8810,
+        0.8141, 0.7778, 0.9648, 0.8822, 0.9901, 0.8565, 0.3550, 0.9781, 0.7420,
+        0.8646, 0.9677, 0.7666, 0.8962, 0.8734, 0.8072, 0.7910, 0.9948])
+2022-10-04 11:35:44,471 INFO     * Loss: 0.0410	 mAP: 0.8408	Data_time: 0.0004	 Batch_time: 0.0872
+2022-10-04 11:35:44,471 INFO     OP: 0.866	 OR: 0.762	 OF1: 0.811	CP: 0.855	 CR: 0.733	 CF1: 0.789
+2022-10-04 11:35:44,471 INFO     OP_3: 0.910	 OR_3: 0.669	 OF1_3: 0.771	CP_3: 0.890	 CR_3: 0.651	 CF1_3: 0.752
+2022-10-04 11:35:44,471 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 11:35:44,473 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 11:35:44,798 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 11:35:55,420 INFO      * best mAP=0.8412
+2022-10-04 11:35:56,114 INFO     2022-10-04 11:35:56, 37 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0444, Data time: 0.3879, Batch time: 0.6896
+2022-10-04 11:37:56,764 INFO     2022-10-04 11:37:56, 37 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0129, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 11:39:58,202 INFO     2022-10-04 11:39:58, 37 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0302, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 11:41:59,589 INFO     2022-10-04 11:41:59, 37 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0302, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 11:44:00,863 INFO     2022-10-04 11:44:00, 37 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0344, Data time: 0.0003, Batch time: 0.3024
+2022-10-04 11:46:02,054 INFO     2022-10-04 11:46:02, 37 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0179, Data time: 0.0003, Batch time: 0.3026
+2022-10-04 11:48:03,191 INFO     2022-10-04 11:48:03, 37 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0157, Data time: 0.0003, Batch time: 0.3021
+2022-10-04 11:50:04,421 INFO     2022-10-04 11:50:04, 37 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0280, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 11:52:05,643 INFO     2022-10-04 11:52:05, 37 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0233, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 11:54:06,856 INFO     2022-10-04 11:54:06, 37 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0507, Data time: 0.0003, Batch time: 0.3025
+2022-10-04 11:56:08,100 INFO     2022-10-04 11:56:08, 37 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0253, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 11:58:09,282 INFO     2022-10-04 11:58:09, 37 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0387, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 12:00:11,050 INFO     2022-10-04 12:00:11, 37 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0270, Data time: 0.0004, Batch time: 0.3053
+2022-10-04 12:01:51,412 INFO     ====== star eval ======
+2022-10-04 12:01:51,832 INFO     2022-10-04 12:01:51, 37 Epoch, 0 Iter, Loss: 0.0972, Data time: 0.3284, Batch time: 0.4192
+2022-10-04 12:02:26,861 INFO     2022-10-04 12:02:26, 37 Epoch, 400 Iter, Loss: 0.0028, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 12:03:01,871 INFO     2022-10-04 12:03:01, 37 Epoch, 800 Iter, Loss: 0.0317, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 12:03:36,863 INFO     2022-10-04 12:03:36, 37 Epoch, 1200 Iter, Loss: 0.0315, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 12:04:11,864 INFO     2022-10-04 12:04:11, 37 Epoch, 1600 Iter, Loss: 0.0354, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 12:04:46,901 INFO     2022-10-04 12:04:46, 37 Epoch, 2000 Iter, Loss: 0.0211, Data time: 0.0003, Batch time: 0.0876
+2022-10-04 12:05:21,937 INFO     2022-10-04 12:05:21, 37 Epoch, 2400 Iter, Loss: 0.0326, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 12:06:04,442 INFO     * Test
+2022-10-04 12:06:04,442 INFO     tensor([0.9641, 0.7131, 0.5397, 0.8679, 0.9528, 0.9578, 0.9712, 0.8927, 0.6866,
+        0.8033, 0.8213, 0.9100, 0.7054, 0.7565, 0.7609, 0.9341, 0.8911, 0.8423,
+        0.8926, 0.8136, 0.9648, 0.6914, 0.8063, 0.8330, 0.8411, 0.9314, 0.7818,
+        0.8010, 0.9109, 0.8556, 0.9850, 0.8594, 0.7943, 0.9395, 0.9951, 0.3966,
+        0.5737, 0.9439, 0.8053, 0.8971, 0.9705, 0.7158, 0.9069, 0.8288, 0.9384,
+        0.8849, 0.8271, 0.8878, 0.7009, 0.9914, 0.9482, 0.7081, 0.8217, 0.8249,
+        0.7764, 0.6782, 0.9578, 0.9200, 0.9724, 0.9532, 0.8766, 0.6655, 0.8799,
+        0.8132, 0.7778, 0.9637, 0.8822, 0.9902, 0.8561, 0.3590, 0.9779, 0.7383,
+        0.8630, 0.9687, 0.7653, 0.8969, 0.8725, 0.8043, 0.7902, 0.9940])
+2022-10-04 12:06:04,443 INFO     * Loss: 0.0411	 mAP: 0.8404	Data_time: 0.0004	 Batch_time: 0.0876
+2022-10-04 12:06:04,443 INFO     OP: 0.867	 OR: 0.761	 OF1: 0.811	CP: 0.855	 CR: 0.733	 CF1: 0.789
+2022-10-04 12:06:04,443 INFO     OP_3: 0.910	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.890	 CR_3: 0.652	 CF1_3: 0.753
+2022-10-04 12:06:04,443 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 12:06:04,445 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 12:06:04,822 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 12:06:15,683 INFO      * best mAP=0.8412
+2022-10-04 12:06:16,398 INFO     2022-10-04 12:06:16, 38 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0348, Data time: 0.4050, Batch time: 0.7078
+2022-10-04 12:08:17,202 INFO     2022-10-04 12:08:17, 38 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0380, Data time: 0.0003, Batch time: 0.3036
+2022-10-04 12:10:19,283 INFO     2022-10-04 12:10:19, 38 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0341, Data time: 0.0004, Batch time: 0.3044
+2022-10-04 12:12:21,203 INFO     2022-10-04 12:12:21, 38 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0272, Data time: 0.0003, Batch time: 0.3076
+2022-10-04 12:14:23,400 INFO     2022-10-04 12:14:23, 38 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0377, Data time: 0.0003, Batch time: 0.3040
+2022-10-04 12:16:25,618 INFO     2022-10-04 12:16:25, 38 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0217, Data time: 0.0003, Batch time: 0.3046
+2022-10-04 12:18:27,830 INFO     2022-10-04 12:18:27, 38 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0310, Data time: 0.0003, Batch time: 0.3048
+2022-10-04 12:20:29,921 INFO     2022-10-04 12:20:29, 38 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0403, Data time: 0.0003, Batch time: 0.3054
+2022-10-04 12:22:31,958 INFO     2022-10-04 12:22:31, 38 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0539, Data time: 0.0004, Batch time: 0.3094
+2022-10-04 12:24:34,011 INFO     2022-10-04 12:24:34, 38 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0228, Data time: 0.0003, Batch time: 0.3042
+2022-10-04 12:26:36,125 INFO     2022-10-04 12:26:36, 38 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0295, Data time: 0.0003, Batch time: 0.3057
+2022-10-04 12:28:38,280 INFO     2022-10-04 12:28:38, 38 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0166, Data time: 0.0003, Batch time: 0.3055
+2022-10-04 12:30:40,555 INFO     2022-10-04 12:30:40, 38 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0135, Data time: 0.0004, Batch time: 0.3051
+2022-10-04 12:32:21,044 INFO     ====== star eval ======
+2022-10-04 12:32:21,466 INFO     2022-10-04 12:32:21, 38 Epoch, 0 Iter, Loss: 0.0956, Data time: 0.3304, Batch time: 0.4206
+2022-10-04 12:32:56,723 INFO     2022-10-04 12:32:56, 38 Epoch, 400 Iter, Loss: 0.0029, Data time: 0.0002, Batch time: 0.0879
+2022-10-04 12:33:31,896 INFO     2022-10-04 12:33:31, 38 Epoch, 800 Iter, Loss: 0.0308, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 12:34:07,022 INFO     2022-10-04 12:34:07, 38 Epoch, 1200 Iter, Loss: 0.0310, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 12:34:42,151 INFO     2022-10-04 12:34:42, 38 Epoch, 1600 Iter, Loss: 0.0351, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 12:35:17,408 INFO     2022-10-04 12:35:17, 38 Epoch, 2000 Iter, Loss: 0.0213, Data time: 0.0002, Batch time: 0.0881
+2022-10-04 12:35:52,625 INFO     2022-10-04 12:35:52, 38 Epoch, 2400 Iter, Loss: 0.0325, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 12:36:37,089 INFO     * Test
+2022-10-04 12:36:37,090 INFO     tensor([0.9649, 0.7132, 0.5397, 0.8685, 0.9523, 0.9584, 0.9707, 0.8931, 0.6859,
+        0.8041, 0.8178, 0.9097, 0.7061, 0.7570, 0.7610, 0.9351, 0.8910, 0.8419,
+        0.8933, 0.8141, 0.9655, 0.6913, 0.8048, 0.8323, 0.8411, 0.9313, 0.7811,
+        0.8008, 0.9099, 0.8548, 0.9851, 0.8591, 0.7938, 0.9402, 0.9951, 0.3831,
+        0.5719, 0.9430, 0.8078, 0.8973, 0.9693, 0.7170, 0.9058, 0.8310, 0.9388,
+        0.8853, 0.8264, 0.8870, 0.7023, 0.9914, 0.9487, 0.7102, 0.8196, 0.8251,
+        0.7783, 0.6757, 0.9572, 0.9208, 0.9723, 0.9532, 0.8769, 0.6659, 0.8802,
+        0.8126, 0.7776, 0.9635, 0.8822, 0.9902, 0.8560, 0.3552, 0.9781, 0.7379,
+        0.8637, 0.9678, 0.7662, 0.8959, 0.8728, 0.8062, 0.7906, 0.9940])
+2022-10-04 12:36:37,091 INFO     * Loss: 0.0411	 mAP: 0.8402	Data_time: 0.0004	 Batch_time: 0.0880
+2022-10-04 12:36:37,091 INFO     OP: 0.866	 OR: 0.762	 OF1: 0.811	CP: 0.854	 CR: 0.733	 CF1: 0.789
+2022-10-04 12:36:37,091 INFO     OP_3: 0.909	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.890	 CR_3: 0.652	 CF1_3: 0.753
+2022-10-04 12:36:37,091 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 12:36:37,093 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 12:36:37,424 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 12:36:48,024 INFO      * best mAP=0.8412
+2022-10-04 12:36:48,713 INFO     2022-10-04 12:36:48, 39 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0440, Data time: 0.3796, Batch time: 0.6839
+2022-10-04 12:38:50,350 INFO     2022-10-04 12:38:50, 39 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0212, Data time: 0.0002, Batch time: 0.3052
+2022-10-04 12:40:52,490 INFO     2022-10-04 12:40:52, 39 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0498, Data time: 0.0004, Batch time: 0.3044
+2022-10-04 12:42:54,691 INFO     2022-10-04 12:42:54, 39 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0351, Data time: 0.0003, Batch time: 0.3049
+2022-10-04 12:44:56,465 INFO     2022-10-04 12:44:56, 39 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0293, Data time: 0.0003, Batch time: 0.3034
+2022-10-04 12:46:58,476 INFO     2022-10-04 12:46:58, 39 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0372, Data time: 0.0003, Batch time: 0.3052
+2022-10-04 12:49:00,479 INFO     2022-10-04 12:49:00, 39 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0274, Data time: 0.0003, Batch time: 0.3045
+2022-10-04 12:51:02,626 INFO     2022-10-04 12:51:02, 39 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0317, Data time: 0.0003, Batch time: 0.3052
+2022-10-04 12:53:04,703 INFO     2022-10-04 12:53:04, 39 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0281, Data time: 0.0005, Batch time: 0.3062
+2022-10-04 12:55:06,856 INFO     2022-10-04 12:55:06, 39 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0261, Data time: 0.0009, Batch time: 0.3106
+2022-10-04 12:57:09,210 INFO     2022-10-04 12:57:09, 39 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0352, Data time: 0.0004, Batch time: 0.3059
+2022-10-04 12:59:11,541 INFO     2022-10-04 12:59:11, 39 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0339, Data time: 0.0003, Batch time: 0.3045
+2022-10-04 13:01:13,807 INFO     2022-10-04 13:01:13, 39 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0308, Data time: 0.0004, Batch time: 0.3062
+2022-10-04 13:02:54,482 INFO     ====== star eval ======
+2022-10-04 13:02:54,963 INFO     2022-10-04 13:02:54, 39 Epoch, 0 Iter, Loss: 0.0989, Data time: 0.3890, Batch time: 0.4794
+2022-10-04 13:03:30,236 INFO     2022-10-04 13:03:30, 39 Epoch, 400 Iter, Loss: 0.0040, Data time: 0.0002, Batch time: 0.0876
+2022-10-04 13:04:05,341 INFO     2022-10-04 13:04:05, 39 Epoch, 800 Iter, Loss: 0.0315, Data time: 0.0003, Batch time: 0.0885
+2022-10-04 13:04:40,435 INFO     2022-10-04 13:04:40, 39 Epoch, 1200 Iter, Loss: 0.0307, Data time: 0.0002, Batch time: 0.0880
+2022-10-04 13:05:15,578 INFO     2022-10-04 13:05:15, 39 Epoch, 1600 Iter, Loss: 0.0355, Data time: 0.0003, Batch time: 0.0875
+2022-10-04 13:05:50,843 INFO     2022-10-04 13:05:50, 39 Epoch, 2000 Iter, Loss: 0.0165, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 13:06:25,921 INFO     2022-10-04 13:06:25, 39 Epoch, 2400 Iter, Loss: 0.0329, Data time: 0.0002, Batch time: 0.0875
+2022-10-04 13:07:09,555 INFO     * Test
+2022-10-04 13:07:09,555 INFO     tensor([0.9644, 0.7128, 0.5389, 0.8679, 0.9520, 0.9577, 0.9715, 0.8937, 0.6872,
+        0.8038, 0.8217, 0.9106, 0.7073, 0.7571, 0.7625, 0.9362, 0.8914, 0.8422,
+        0.8930, 0.8123, 0.9652, 0.6938, 0.8063, 0.8336, 0.8409, 0.9324, 0.7811,
+        0.8014, 0.9091, 0.8577, 0.9848, 0.8608, 0.7941, 0.9403, 0.9954, 0.3908,
+        0.5732, 0.9450, 0.8058, 0.8963, 0.9692, 0.7148, 0.9077, 0.8311, 0.9383,
+        0.8847, 0.8266, 0.8866, 0.7005, 0.9914, 0.9481, 0.7075, 0.8199, 0.8243,
+        0.7818, 0.6752, 0.9580, 0.9196, 0.9723, 0.9523, 0.8768, 0.6661, 0.8801,
+        0.8143, 0.7781, 0.9636, 0.8816, 0.9903, 0.8541, 0.3535, 0.9781, 0.7418,
+        0.8641, 0.9678, 0.7667, 0.8961, 0.8731, 0.8065, 0.7939, 0.9948])
+2022-10-04 13:07:09,556 INFO     * Loss: 0.0411	 mAP: 0.8405	Data_time: 0.0004	 Batch_time: 0.0879
+2022-10-04 13:07:09,556 INFO     OP: 0.864	 OR: 0.764	 OF1: 0.811	CP: 0.853	 CR: 0.734	 CF1: 0.789
+2022-10-04 13:07:09,556 INFO     OP_3: 0.909	 OR_3: 0.671	 OF1_3: 0.772	CP_3: 0.889	 CR_3: 0.652	 CF1_3: 0.752
+2022-10-04 13:07:09,556 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 13:07:09,558 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 13:07:09,906 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 13:07:20,778 INFO      * best mAP=0.8412
+2022-10-04 13:07:21,444 INFO     2022-10-04 13:07:21, 40 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0421, Data time: 0.3554, Batch time: 0.6604
+2022-10-04 13:09:23,398 INFO     2022-10-04 13:09:23, 40 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0374, Data time: 0.0003, Batch time: 0.3059
+2022-10-04 13:11:25,802 INFO     2022-10-04 13:11:25, 40 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0310, Data time: 0.0003, Batch time: 0.3052
+2022-10-04 13:13:28,072 INFO     2022-10-04 13:13:28, 40 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0325, Data time: 0.0003, Batch time: 0.3047
+2022-10-04 13:15:30,236 INFO     2022-10-04 13:15:30, 40 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0195, Data time: 0.0004, Batch time: 0.3052
+2022-10-04 13:17:32,366 INFO     2022-10-04 13:17:32, 40 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0354, Data time: 0.0003, Batch time: 0.3056
+2022-10-04 13:19:34,654 INFO     2022-10-04 13:19:34, 40 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0423, Data time: 0.0003, Batch time: 0.3045
+2022-10-04 13:21:36,933 INFO     2022-10-04 13:21:36, 40 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0301, Data time: 0.0003, Batch time: 0.3056
+2022-10-04 13:23:39,111 INFO     2022-10-04 13:23:39, 40 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0231, Data time: 0.0003, Batch time: 0.3048
+2022-10-04 13:25:40,837 INFO     2022-10-04 13:25:40, 40 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0350, Data time: 0.0003, Batch time: 0.3040
+2022-10-04 13:27:42,366 INFO     2022-10-04 13:27:42, 40 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0476, Data time: 0.0003, Batch time: 0.3039
+2022-10-04 13:29:43,940 INFO     2022-10-04 13:29:43, 40 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0339, Data time: 0.0003, Batch time: 0.3042
+2022-10-04 13:31:45,531 INFO     2022-10-04 13:31:45, 40 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0280, Data time: 0.0003, Batch time: 0.3039
+2022-10-04 13:33:25,591 INFO     ====== star eval ======
+2022-10-04 13:33:26,006 INFO     2022-10-04 13:33:26, 40 Epoch, 0 Iter, Loss: 0.0974, Data time: 0.3243, Batch time: 0.4138
+2022-10-04 13:34:00,893 INFO     2022-10-04 13:34:00, 40 Epoch, 400 Iter, Loss: 0.0029, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 13:34:35,794 INFO     2022-10-04 13:34:35, 40 Epoch, 800 Iter, Loss: 0.0308, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 13:35:10,701 INFO     2022-10-04 13:35:10, 40 Epoch, 1200 Iter, Loss: 0.0315, Data time: 0.0003, Batch time: 0.0872
+2022-10-04 13:35:45,624 INFO     2022-10-04 13:35:45, 40 Epoch, 1600 Iter, Loss: 0.0359, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 13:36:20,640 INFO     2022-10-04 13:36:20, 40 Epoch, 2000 Iter, Loss: 0.0192, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 13:36:55,647 INFO     2022-10-04 13:36:55, 40 Epoch, 2400 Iter, Loss: 0.0332, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 13:37:39,889 INFO     * Test
+2022-10-04 13:37:39,889 INFO     tensor([0.9646, 0.7136, 0.5395, 0.8701, 0.9526, 0.9576, 0.9708, 0.8921, 0.6864,
+        0.8066, 0.8187, 0.9075, 0.7053, 0.7566, 0.7607, 0.9352, 0.8899, 0.8399,
+        0.8930, 0.8130, 0.9654, 0.6903, 0.8050, 0.8335, 0.8390, 0.9325, 0.7816,
+        0.8009, 0.9111, 0.8573, 0.9847, 0.8586, 0.7965, 0.9391, 0.9953, 0.3928,
+        0.5714, 0.9444, 0.8083, 0.8949, 0.9703, 0.7169, 0.9066, 0.8310, 0.9388,
+        0.8860, 0.8255, 0.8873, 0.7002, 0.9915, 0.9479, 0.7104, 0.8207, 0.8236,
+        0.7788, 0.6759, 0.9582, 0.9203, 0.9722, 0.9525, 0.8776, 0.6665, 0.8809,
+        0.8134, 0.7766, 0.9637, 0.8823, 0.9903, 0.8557, 0.3545, 0.9782, 0.7404,
+        0.8647, 0.9680, 0.7660, 0.8953, 0.8716, 0.8053, 0.7896, 0.9943])
+2022-10-04 13:37:39,890 INFO     * Loss: 0.0413	 mAP: 0.8403	Data_time: 0.0004	 Batch_time: 0.0874
+2022-10-04 13:37:39,890 INFO     OP: 0.863	 OR: 0.765	 OF1: 0.811	CP: 0.851	 CR: 0.735	 CF1: 0.789
+2022-10-04 13:37:39,890 INFO     OP_3: 0.908	 OR_3: 0.671	 OF1_3: 0.771	CP_3: 0.888	 CR_3: 0.652	 CF1_3: 0.752
+2022-10-04 13:37:39,891 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 13:37:39,893 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 13:37:40,255 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 13:37:50,854 INFO      * best mAP=0.8412
+2022-10-04 13:37:51,520 INFO     2022-10-04 13:37:51, 41 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0326, Data time: 0.3584, Batch time: 0.6608
+2022-10-04 13:39:53,157 INFO     2022-10-04 13:39:53, 41 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0389, Data time: 0.0003, Batch time: 0.3050
+2022-10-04 13:41:55,358 INFO     2022-10-04 13:41:55, 41 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0337, Data time: 0.0003, Batch time: 0.3043
+2022-10-04 13:43:57,615 INFO     2022-10-04 13:43:57, 41 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0389, Data time: 0.0003, Batch time: 0.3050
+2022-10-04 13:46:00,063 INFO     2022-10-04 13:46:00, 41 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0378, Data time: 0.0003, Batch time: 0.3047
+2022-10-04 13:48:02,457 INFO     2022-10-04 13:48:02, 41 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0479, Data time: 0.0004, Batch time: 0.3055
+2022-10-04 13:50:04,852 INFO     2022-10-04 13:50:04, 41 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0471, Data time: 0.0005, Batch time: 0.3067
+2022-10-04 13:52:07,285 INFO     2022-10-04 13:52:07, 41 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0236, Data time: 0.0004, Batch time: 0.3053
+2022-10-04 13:54:09,626 INFO     2022-10-04 13:54:09, 41 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0446, Data time: 0.0003, Batch time: 0.3056
+2022-10-04 13:56:12,003 INFO     2022-10-04 13:56:12, 41 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0228, Data time: 0.0003, Batch time: 0.3046
+2022-10-04 13:58:14,347 INFO     2022-10-04 13:58:14, 41 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0354, Data time: 0.0003, Batch time: 0.3048
+2022-10-04 14:00:16,477 INFO     2022-10-04 14:00:16, 41 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0379, Data time: 0.0006, Batch time: 0.3061
+2022-10-04 14:02:18,756 INFO     2022-10-04 14:02:18, 41 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0303, Data time: 0.0004, Batch time: 0.3058
+2022-10-04 14:03:59,453 INFO     ====== star eval ======
+2022-10-04 14:03:59,876 INFO     2022-10-04 14:03:59, 41 Epoch, 0 Iter, Loss: 0.0967, Data time: 0.3311, Batch time: 0.4222
+2022-10-04 14:04:34,978 INFO     2022-10-04 14:04:34, 41 Epoch, 400 Iter, Loss: 0.0038, Data time: 0.0002, Batch time: 0.0877
+2022-10-04 14:05:10,228 INFO     2022-10-04 14:05:10, 41 Epoch, 800 Iter, Loss: 0.0305, Data time: 0.0002, Batch time: 0.0884
+2022-10-04 14:05:45,405 INFO     2022-10-04 14:05:45, 41 Epoch, 1200 Iter, Loss: 0.0298, Data time: 0.0002, Batch time: 0.0875
+2022-10-04 14:06:20,497 INFO     2022-10-04 14:06:20, 41 Epoch, 1600 Iter, Loss: 0.0349, Data time: 0.0002, Batch time: 0.0877
+2022-10-04 14:06:55,606 INFO     2022-10-04 14:06:55, 41 Epoch, 2000 Iter, Loss: 0.0182, Data time: 0.0002, Batch time: 0.0875
+2022-10-04 14:07:30,815 INFO     2022-10-04 14:07:30, 41 Epoch, 2400 Iter, Loss: 0.0315, Data time: 0.0002, Batch time: 0.0875
+2022-10-04 14:08:15,202 INFO     * Test
+2022-10-04 14:08:15,202 INFO     tensor([0.9645, 0.7118, 0.5379, 0.8687, 0.9525, 0.9578, 0.9700, 0.8933, 0.6866,
+        0.8028, 0.8202, 0.9100, 0.7062, 0.7563, 0.7609, 0.9358, 0.8904, 0.8419,
+        0.8927, 0.8144, 0.9648, 0.6917, 0.8055, 0.8336, 0.8411, 0.9314, 0.7805,
+        0.7994, 0.9096, 0.8563, 0.9848, 0.8607, 0.7942, 0.9395, 0.9953, 0.3926,
+        0.5743, 0.9438, 0.8075, 0.8960, 0.9705, 0.7173, 0.9065, 0.8292, 0.9387,
+        0.8857, 0.8267, 0.8869, 0.7013, 0.9915, 0.9476, 0.7077, 0.8199, 0.8240,
+        0.7792, 0.6748, 0.9578, 0.9191, 0.9720, 0.9524, 0.8764, 0.6658, 0.8805,
+        0.8126, 0.7757, 0.9640, 0.8813, 0.9900, 0.8553, 0.3583, 0.9781, 0.7410,
+        0.8634, 0.9682, 0.7665, 0.8955, 0.8733, 0.8050, 0.7927, 0.9946])
+2022-10-04 14:08:15,203 INFO     * Loss: 0.0412	 mAP: 0.8403	Data_time: 0.0004	 Batch_time: 0.0879
+2022-10-04 14:08:15,203 INFO     OP: 0.865	 OR: 0.762	 OF1: 0.810	CP: 0.851	 CR: 0.734	 CF1: 0.788
+2022-10-04 14:08:15,203 INFO     OP_3: 0.909	 OR_3: 0.670	 OF1_3: 0.771	CP_3: 0.888	 CR_3: 0.653	 CF1_3: 0.752
+2022-10-04 14:08:15,203 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 14:08:15,205 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 14:08:15,549 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 14:08:26,717 INFO      * best mAP=0.8412
+2022-10-04 14:08:27,389 INFO     2022-10-04 14:08:27, 42 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0186, Data time: 0.3627, Batch time: 0.6661
+2022-10-04 14:10:29,223 INFO     2022-10-04 14:10:29, 42 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0205, Data time: 0.0004, Batch time: 0.3057
+2022-10-04 14:12:31,296 INFO     2022-10-04 14:12:31, 42 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0312, Data time: 0.0003, Batch time: 0.3044
+2022-10-04 14:14:33,246 INFO     2022-10-04 14:14:33, 42 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0436, Data time: 0.0004, Batch time: 0.3042
+2022-10-04 14:16:35,481 INFO     2022-10-04 14:16:35, 42 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0280, Data time: 0.0003, Batch time: 0.3057
+2022-10-04 14:18:37,764 INFO     2022-10-04 14:18:37, 42 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0198, Data time: 0.0003, Batch time: 0.3047
+2022-10-04 14:20:39,944 INFO     2022-10-04 14:20:39, 42 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0351, Data time: 0.0004, Batch time: 0.3038
+2022-10-04 14:22:41,809 INFO     2022-10-04 14:22:41, 42 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0255, Data time: 0.0005, Batch time: 0.3039
+2022-10-04 14:24:43,736 INFO     2022-10-04 14:24:43, 42 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0173, Data time: 0.0003, Batch time: 0.3038
+2022-10-04 14:26:46,009 INFO     2022-10-04 14:26:46, 42 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0355, Data time: 0.0005, Batch time: 0.3060
+2022-10-04 14:28:48,123 INFO     2022-10-04 14:28:48, 42 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0474, Data time: 0.0005, Batch time: 0.3050
+2022-10-04 14:30:50,294 INFO     2022-10-04 14:30:50, 42 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0270, Data time: 0.0004, Batch time: 0.3040
+2022-10-04 14:32:52,656 INFO     2022-10-04 14:32:52, 42 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0270, Data time: 0.0003, Batch time: 0.3038
+2022-10-04 14:34:33,060 INFO     ====== star eval ======
+2022-10-04 14:34:33,486 INFO     2022-10-04 14:34:33, 42 Epoch, 0 Iter, Loss: 0.0979, Data time: 0.3355, Batch time: 0.4246
+2022-10-04 14:35:08,649 INFO     2022-10-04 14:35:08, 42 Epoch, 400 Iter, Loss: 0.0038, Data time: 0.0003, Batch time: 0.0881
+2022-10-04 14:35:43,833 INFO     2022-10-04 14:35:43, 42 Epoch, 800 Iter, Loss: 0.0307, Data time: 0.0002, Batch time: 0.0882
+2022-10-04 14:36:18,915 INFO     2022-10-04 14:36:18, 42 Epoch, 1200 Iter, Loss: 0.0311, Data time: 0.0002, Batch time: 0.0878
+2022-10-04 14:36:54,030 INFO     2022-10-04 14:36:54, 42 Epoch, 1600 Iter, Loss: 0.0350, Data time: 0.0003, Batch time: 0.0893
+2022-10-04 14:37:29,197 INFO     2022-10-04 14:37:29, 42 Epoch, 2000 Iter, Loss: 0.0181, Data time: 0.0002, Batch time: 0.0883
+2022-10-04 14:38:04,431 INFO     2022-10-04 14:38:04, 42 Epoch, 2400 Iter, Loss: 0.0338, Data time: 0.0002, Batch time: 0.0874
+2022-10-04 14:38:48,757 INFO     * Test
+2022-10-04 14:38:48,757 INFO     tensor([0.9646, 0.7128, 0.5384, 0.8689, 0.9523, 0.9584, 0.9721, 0.8931, 0.6862,
+        0.8043, 0.8206, 0.9105, 0.7063, 0.7568, 0.7612, 0.9355, 0.8904, 0.8407,
+        0.8925, 0.8142, 0.9650, 0.6917, 0.8046, 0.8325, 0.8393, 0.9320, 0.7810,
+        0.8005, 0.9102, 0.8572, 0.9850, 0.8587, 0.7945, 0.9401, 0.9952, 0.3853,
+        0.5719, 0.9438, 0.8054, 0.8962, 0.9705, 0.7162, 0.9075, 0.8283, 0.9386,
+        0.8848, 0.8251, 0.8867, 0.7023, 0.9914, 0.9479, 0.7090, 0.8194, 0.8244,
+        0.7788, 0.6753, 0.9577, 0.9199, 0.9727, 0.9525, 0.8780, 0.6651, 0.8802,
+        0.8146, 0.7774, 0.9640, 0.8814, 0.9902, 0.8560, 0.3550, 0.9780, 0.7396,
+        0.8636, 0.9682, 0.7659, 0.8949, 0.8720, 0.8054, 0.7908, 0.9949])
+2022-10-04 14:38:48,759 INFO     * Loss: 0.0413	 mAP: 0.8402	Data_time: 0.0004	 Batch_time: 0.0879
+2022-10-04 14:38:48,759 INFO     OP: 0.865	 OR: 0.762	 OF1: 0.811	CP: 0.853	 CR: 0.734	 CF1: 0.789
+2022-10-04 14:38:48,759 INFO     OP_3: 0.909	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.888	 CR_3: 0.653	 CF1_3: 0.753
+2022-10-04 14:38:48,759 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 14:38:48,761 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 14:38:49,106 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 14:38:59,674 INFO      * best mAP=0.8412
+2022-10-04 14:39:00,415 INFO     2022-10-04 14:39:00, 43 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0259, Data time: 0.4299, Batch time: 0.7356
+2022-10-04 14:41:02,312 INFO     2022-10-04 14:41:02, 43 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0393, Data time: 0.0004, Batch time: 0.3061
+2022-10-04 14:43:04,540 INFO     2022-10-04 14:43:04, 43 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0228, Data time: 0.0003, Batch time: 0.3040
+2022-10-04 14:45:06,486 INFO     2022-10-04 14:45:06, 43 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0265, Data time: 0.0006, Batch time: 0.3048
+2022-10-04 14:47:08,500 INFO     2022-10-04 14:47:08, 43 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0399, Data time: 0.0003, Batch time: 0.3044
+2022-10-04 14:49:10,550 INFO     2022-10-04 14:49:10, 43 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0206, Data time: 0.0004, Batch time: 0.3041
+2022-10-04 14:51:12,724 INFO     2022-10-04 14:51:12, 43 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0313, Data time: 0.0003, Batch time: 0.3049
+2022-10-04 14:53:14,921 INFO     2022-10-04 14:53:14, 43 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0383, Data time: 0.0003, Batch time: 0.3047
+2022-10-04 14:55:17,203 INFO     2022-10-04 14:55:17, 43 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0334, Data time: 0.0006, Batch time: 0.3070
+2022-10-04 14:57:19,429 INFO     2022-10-04 14:57:19, 43 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0442, Data time: 0.0004, Batch time: 0.3049
+2022-10-04 14:59:21,200 INFO     2022-10-04 14:59:21, 43 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0212, Data time: 0.0003, Batch time: 0.3036
+2022-10-04 15:01:22,514 INFO     2022-10-04 15:01:22, 43 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0407, Data time: 0.0003, Batch time: 0.3026
+2022-10-04 15:03:23,768 INFO     2022-10-04 15:03:23, 43 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0386, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 15:05:03,585 INFO     ====== star eval ======
+2022-10-04 15:05:04,072 INFO     2022-10-04 15:05:04, 43 Epoch, 0 Iter, Loss: 0.0988, Data time: 0.3938, Batch time: 0.4851
+2022-10-04 15:05:38,967 INFO     2022-10-04 15:05:38, 43 Epoch, 400 Iter, Loss: 0.0034, Data time: 0.0002, Batch time: 0.0868
+2022-10-04 15:06:13,882 INFO     2022-10-04 15:06:13, 43 Epoch, 800 Iter, Loss: 0.0310, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 15:06:48,800 INFO     2022-10-04 15:06:48, 43 Epoch, 1200 Iter, Loss: 0.0297, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 15:07:23,700 INFO     2022-10-04 15:07:23, 43 Epoch, 1600 Iter, Loss: 0.0351, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 15:07:58,588 INFO     2022-10-04 15:07:58, 43 Epoch, 2000 Iter, Loss: 0.0205, Data time: 0.0003, Batch time: 0.0873
+2022-10-04 15:08:33,493 INFO     2022-10-04 15:08:33, 43 Epoch, 2400 Iter, Loss: 0.0319, Data time: 0.0002, Batch time: 0.0868
+2022-10-04 15:09:16,895 INFO     * Test
+2022-10-04 15:09:16,896 INFO     tensor([0.9651, 0.7137, 0.5402, 0.8693, 0.9520, 0.9572, 0.9702, 0.8918, 0.6857,
+        0.8048, 0.8198, 0.9087, 0.7052, 0.7554, 0.7601, 0.9349, 0.8902, 0.8401,
+        0.8930, 0.8126, 0.9651, 0.6917, 0.8057, 0.8332, 0.8411, 0.9317, 0.7815,
+        0.7999, 0.9097, 0.8560, 0.9848, 0.8601, 0.7942, 0.9409, 0.9952, 0.3897,
+        0.5732, 0.9432, 0.8067, 0.8964, 0.9707, 0.7182, 0.9063, 0.8283, 0.9387,
+        0.8863, 0.8264, 0.8873, 0.6973, 0.9915, 0.9486, 0.7105, 0.8208, 0.8246,
+        0.7793, 0.6761, 0.9565, 0.9194, 0.9725, 0.9531, 0.8779, 0.6673, 0.8799,
+        0.8120, 0.7764, 0.9638, 0.8819, 0.9901, 0.8554, 0.3539, 0.9780, 0.7387,
+        0.8636, 0.9673, 0.7653, 0.8958, 0.8733, 0.8080, 0.7894, 0.9946])
+2022-10-04 15:09:16,897 INFO     * Loss: 0.0410	 mAP: 0.8402	Data_time: 0.0004	 Batch_time: 0.0873
+2022-10-04 15:09:16,897 INFO     OP: 0.863	 OR: 0.764	 OF1: 0.810	CP: 0.851	 CR: 0.734	 CF1: 0.789
+2022-10-04 15:09:16,897 INFO     OP_3: 0.908	 OR_3: 0.670	 OF1_3: 0.771	CP_3: 0.888	 CR_3: 0.652	 CF1_3: 0.752
+2022-10-04 15:09:16,897 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 15:09:16,899 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 15:09:17,252 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 15:09:28,692 INFO      * best mAP=0.8412
+2022-10-04 15:09:29,414 INFO     2022-10-04 15:09:29, 44 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0171, Data time: 0.4150, Batch time: 0.7174
+2022-10-04 15:11:29,994 INFO     2022-10-04 15:11:29, 44 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0483, Data time: 0.0003, Batch time: 0.3036
+2022-10-04 15:13:31,308 INFO     2022-10-04 15:13:31, 44 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0258, Data time: 0.0003, Batch time: 0.3030
+2022-10-04 15:15:32,530 INFO     2022-10-04 15:15:32, 44 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0346, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 15:17:33,795 INFO     2022-10-04 15:17:33, 44 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0437, Data time: 0.0003, Batch time: 0.3023
+2022-10-04 15:19:34,956 INFO     2022-10-04 15:19:34, 44 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0261, Data time: 0.0003, Batch time: 0.3020
+2022-10-04 15:21:36,117 INFO     2022-10-04 15:21:36, 44 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0325, Data time: 0.0003, Batch time: 0.3022
+2022-10-04 15:23:37,280 INFO     2022-10-04 15:23:37, 44 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0403, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 15:25:38,493 INFO     2022-10-04 15:25:38, 44 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0397, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 15:27:39,803 INFO     2022-10-04 15:27:39, 44 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0171, Data time: 0.0003, Batch time: 0.3026
+2022-10-04 15:29:41,098 INFO     2022-10-04 15:29:41, 44 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0478, Data time: 0.0003, Batch time: 0.3034
+2022-10-04 15:31:42,398 INFO     2022-10-04 15:31:42, 44 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0215, Data time: 0.0003, Batch time: 0.3033
+2022-10-04 15:33:43,728 INFO     2022-10-04 15:33:43, 44 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0271, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 15:35:23,576 INFO     ====== star eval ======
+2022-10-04 15:35:23,990 INFO     2022-10-04 15:35:23, 44 Epoch, 0 Iter, Loss: 0.0980, Data time: 0.3237, Batch time: 0.4128
+2022-10-04 15:35:58,862 INFO     2022-10-04 15:35:58, 44 Epoch, 400 Iter, Loss: 0.0033, Data time: 0.0002, Batch time: 0.0870
+2022-10-04 15:36:33,740 INFO     2022-10-04 15:36:33, 44 Epoch, 800 Iter, Loss: 0.0313, Data time: 0.0003, Batch time: 0.0872
+2022-10-04 15:37:08,610 INFO     2022-10-04 15:37:08, 44 Epoch, 1200 Iter, Loss: 0.0307, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 15:37:43,495 INFO     2022-10-04 15:37:43, 44 Epoch, 1600 Iter, Loss: 0.0348, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 15:38:18,382 INFO     2022-10-04 15:38:18, 44 Epoch, 2000 Iter, Loss: 0.0195, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 15:38:53,262 INFO     2022-10-04 15:38:53, 44 Epoch, 2400 Iter, Loss: 0.0319, Data time: 0.0002, Batch time: 0.0870
+2022-10-04 15:39:36,174 INFO     * Test
+2022-10-04 15:39:36,174 INFO     tensor([0.9645, 0.7133, 0.5397, 0.8678, 0.9528, 0.9579, 0.9719, 0.8932, 0.6876,
+        0.8055, 0.8192, 0.9096, 0.7057, 0.7574, 0.7600, 0.9346, 0.8905, 0.8416,
+        0.8938, 0.8146, 0.9650, 0.6931, 0.8056, 0.8332, 0.8405, 0.9319, 0.7812,
+        0.8007, 0.9096, 0.8550, 0.9851, 0.8603, 0.7956, 0.9396, 0.9952, 0.3930,
+        0.5729, 0.9439, 0.8063, 0.8961, 0.9694, 0.7174, 0.9078, 0.8280, 0.9395,
+        0.8858, 0.8253, 0.8869, 0.7021, 0.9915, 0.9483, 0.7074, 0.8221, 0.8253,
+        0.7773, 0.6736, 0.9575, 0.9192, 0.9720, 0.9535, 0.8763, 0.6653, 0.8803,
+        0.8133, 0.7773, 0.9640, 0.8823, 0.9902, 0.8562, 0.3494, 0.9784, 0.7384,
+        0.8635, 0.9674, 0.7656, 0.8964, 0.8738, 0.8070, 0.7917, 0.9948])
+2022-10-04 15:39:36,175 INFO     * Loss: 0.0411	 mAP: 0.8403	Data_time: 0.0004	 Batch_time: 0.0872
+2022-10-04 15:39:36,175 INFO     OP: 0.864	 OR: 0.764	 OF1: 0.811	CP: 0.851	 CR: 0.735	 CF1: 0.789
+2022-10-04 15:39:36,175 INFO     OP_3: 0.909	 OR_3: 0.670	 OF1_3: 0.772	CP_3: 0.888	 CR_3: 0.653	 CF1_3: 0.752
+2022-10-04 15:39:36,176 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 15:39:36,177 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 15:39:36,498 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 15:39:46,852 INFO      * best mAP=0.8412
+2022-10-04 15:39:47,561 INFO     2022-10-04 15:39:47, 45 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0190, Data time: 0.4031, Batch time: 0.7037
+2022-10-04 15:41:48,178 INFO     2022-10-04 15:41:48, 45 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0386, Data time: 0.0003, Batch time: 0.3022
+2022-10-04 15:43:49,454 INFO     2022-10-04 15:43:49, 45 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0366, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 15:45:50,607 INFO     2022-10-04 15:45:50, 45 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0392, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 15:47:51,794 INFO     2022-10-04 15:47:51, 45 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0200, Data time: 0.0003, Batch time: 0.3024
+2022-10-04 15:49:52,962 INFO     2022-10-04 15:49:52, 45 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0321, Data time: 0.0003, Batch time: 0.3026
+2022-10-04 15:51:54,156 INFO     2022-10-04 15:51:54, 45 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0339, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 15:53:55,494 INFO     2022-10-04 15:53:55, 45 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0206, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 15:55:56,886 INFO     2022-10-04 15:55:56, 45 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0276, Data time: 0.0003, Batch time: 0.3032
+2022-10-04 15:57:58,277 INFO     2022-10-04 15:57:58, 45 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0461, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 15:59:59,617 INFO     2022-10-04 15:59:59, 45 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0331, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 16:02:00,979 INFO     2022-10-04 16:02:00, 45 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0332, Data time: 0.0003, Batch time: 0.3030
+2022-10-04 16:04:02,382 INFO     2022-10-04 16:04:02, 45 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0410, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 16:05:42,300 INFO     ====== star eval ======
+2022-10-04 16:05:42,708 INFO     2022-10-04 16:05:42, 45 Epoch, 0 Iter, Loss: 0.0984, Data time: 0.3197, Batch time: 0.4071
+2022-10-04 16:06:17,560 INFO     2022-10-04 16:06:17, 45 Epoch, 400 Iter, Loss: 0.0034, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 16:06:52,431 INFO     2022-10-04 16:06:52, 45 Epoch, 800 Iter, Loss: 0.0309, Data time: 0.0003, Batch time: 0.0873
+2022-10-04 16:07:27,298 INFO     2022-10-04 16:07:27, 45 Epoch, 1200 Iter, Loss: 0.0307, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 16:08:02,152 INFO     2022-10-04 16:08:02, 45 Epoch, 1600 Iter, Loss: 0.0355, Data time: 0.0003, Batch time: 0.0872
+2022-10-04 16:08:37,003 INFO     2022-10-04 16:08:37, 45 Epoch, 2000 Iter, Loss: 0.0181, Data time: 0.0003, Batch time: 0.0873
+2022-10-04 16:09:11,858 INFO     2022-10-04 16:09:11, 45 Epoch, 2400 Iter, Loss: 0.0332, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 16:09:55,519 INFO     * Test
+2022-10-04 16:09:55,519 INFO     tensor([0.9644, 0.7125, 0.5392, 0.8694, 0.9525, 0.9575, 0.9721, 0.8928, 0.6869,
+        0.8056, 0.8209, 0.9100, 0.7048, 0.7569, 0.7602, 0.9357, 0.8908, 0.8423,
+        0.8932, 0.8155, 0.9651, 0.6914, 0.8061, 0.8334, 0.8400, 0.9316, 0.7810,
+        0.8011, 0.9088, 0.8552, 0.9850, 0.8598, 0.7952, 0.9391, 0.9957, 0.3861,
+        0.5723, 0.9444, 0.8075, 0.8962, 0.9707, 0.7166, 0.9066, 0.8310, 0.9388,
+        0.8848, 0.8272, 0.8865, 0.7015, 0.9915, 0.9481, 0.7084, 0.8218, 0.8241,
+        0.7782, 0.6773, 0.9575, 0.9195, 0.9721, 0.9525, 0.8769, 0.6659, 0.8809,
+        0.8135, 0.7771, 0.9647, 0.8818, 0.9904, 0.8558, 0.3511, 0.9780, 0.7380,
+        0.8632, 0.9680, 0.7655, 0.8957, 0.8733, 0.8065, 0.7906, 0.9944])
+2022-10-04 16:09:55,521 INFO     * Loss: 0.0411	 mAP: 0.8403	Data_time: 0.0004	 Batch_time: 0.0872
+2022-10-04 16:09:55,521 INFO     OP: 0.865	 OR: 0.764	 OF1: 0.811	CP: 0.853	 CR: 0.734	 CF1: 0.789
+2022-10-04 16:09:55,521 INFO     OP_3: 0.909	 OR_3: 0.671	 OF1_3: 0.772	CP_3: 0.889	 CR_3: 0.652	 CF1_3: 0.752
+2022-10-04 16:09:55,521 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 16:09:55,570 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 16:09:55,896 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 16:10:06,759 INFO      * best mAP=0.8412
+2022-10-04 16:10:07,457 INFO     2022-10-04 16:10:07, 46 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0189, Data time: 0.3948, Batch time: 0.6931
+2022-10-04 16:12:08,074 INFO     2022-10-04 16:12:08, 46 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0188, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 16:14:09,368 INFO     2022-10-04 16:14:09, 46 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0228, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 16:16:10,564 INFO     2022-10-04 16:16:10, 46 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0157, Data time: 0.0003, Batch time: 0.3033
+2022-10-04 16:18:11,754 INFO     2022-10-04 16:18:11, 46 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0306, Data time: 0.0003, Batch time: 0.3028
+2022-10-04 16:20:13,028 INFO     2022-10-04 16:20:13, 46 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0256, Data time: 0.0003, Batch time: 0.3026
+2022-10-04 16:22:14,222 INFO     2022-10-04 16:22:14, 46 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0282, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 16:24:15,418 INFO     2022-10-04 16:24:15, 46 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0371, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 16:26:16,673 INFO     2022-10-04 16:26:16, 46 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0247, Data time: 0.0003, Batch time: 0.3033
+2022-10-04 16:28:17,943 INFO     2022-10-04 16:28:17, 46 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0443, Data time: 0.0003, Batch time: 0.3024
+2022-10-04 16:30:19,226 INFO     2022-10-04 16:30:19, 46 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0276, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 16:32:20,553 INFO     2022-10-04 16:32:20, 46 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0247, Data time: 0.0003, Batch time: 0.3035
+2022-10-04 16:34:21,922 INFO     2022-10-04 16:34:21, 46 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0261, Data time: 0.0003, Batch time: 0.3037
+2022-10-04 16:36:01,755 INFO     ====== star eval ======
+2022-10-04 16:36:02,167 INFO     2022-10-04 16:36:02, 46 Epoch, 0 Iter, Loss: 0.0962, Data time: 0.3213, Batch time: 0.4106
+2022-10-04 16:36:37,079 INFO     2022-10-04 16:36:37, 46 Epoch, 400 Iter, Loss: 0.0033, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 16:37:12,015 INFO     2022-10-04 16:37:12, 46 Epoch, 800 Iter, Loss: 0.0317, Data time: 0.0003, Batch time: 0.0872
+2022-10-04 16:37:46,938 INFO     2022-10-04 16:37:46, 46 Epoch, 1200 Iter, Loss: 0.0309, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 16:38:21,853 INFO     2022-10-04 16:38:21, 46 Epoch, 1600 Iter, Loss: 0.0349, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 16:38:56,749 INFO     2022-10-04 16:38:56, 46 Epoch, 2000 Iter, Loss: 0.0183, Data time: 0.0003, Batch time: 0.0874
+2022-10-04 16:39:31,642 INFO     2022-10-04 16:39:31, 46 Epoch, 2400 Iter, Loss: 0.0327, Data time: 0.0002, Batch time: 0.0871
+2022-10-04 16:40:14,745 INFO     * Test
+2022-10-04 16:40:14,745 INFO     tensor([0.9647, 0.7110, 0.5383, 0.8678, 0.9526, 0.9576, 0.9725, 0.8928, 0.6853,
+        0.8030, 0.8186, 0.9106, 0.7048, 0.7571, 0.7610, 0.9350, 0.8913, 0.8425,
+        0.8931, 0.8128, 0.9653, 0.6906, 0.8054, 0.8329, 0.8400, 0.9323, 0.7804,
+        0.8004, 0.9092, 0.8550, 0.9847, 0.8594, 0.7941, 0.9386, 0.9954, 0.3857,
+        0.5727, 0.9437, 0.8060, 0.8964, 0.9702, 0.7157, 0.9075, 0.8296, 0.9384,
+        0.8866, 0.8269, 0.8859, 0.7047, 0.9914, 0.9480, 0.7078, 0.8200, 0.8259,
+        0.7778, 0.6764, 0.9576, 0.9189, 0.9731, 0.9530, 0.8765, 0.6654, 0.8801,
+        0.8132, 0.7780, 0.9638, 0.8832, 0.9900, 0.8544, 0.3607, 0.9783, 0.7414,
+        0.8622, 0.9679, 0.7662, 0.8955, 0.8726, 0.8054, 0.7900, 0.9948])
+2022-10-04 16:40:14,746 INFO     * Loss: 0.0412	 mAP: 0.8402	Data_time: 0.0004	 Batch_time: 0.0873
+2022-10-04 16:40:14,746 INFO     OP: 0.868	 OR: 0.761	 OF1: 0.811	CP: 0.853	 CR: 0.733	 CF1: 0.789
+2022-10-04 16:40:14,746 INFO     OP_3: 0.910	 OR_3: 0.669	 OF1_3: 0.771	CP_3: 0.889	 CR_3: 0.653	 CF1_3: 0.753
+2022-10-04 16:40:14,746 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 16:40:14,748 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 16:40:15,070 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 16:40:25,448 INFO      * best mAP=0.8412
+2022-10-04 16:40:26,139 INFO     2022-10-04 16:40:26, 47 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0541, Data time: 0.3770, Batch time: 0.6844
+2022-10-04 16:42:26,725 INFO     2022-10-04 16:42:26, 47 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0271, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 16:44:27,851 INFO     2022-10-04 16:44:27, 47 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0199, Data time: 0.0003, Batch time: 0.3022
+2022-10-04 16:46:28,871 INFO     2022-10-04 16:46:28, 47 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0397, Data time: 0.0003, Batch time: 0.3029
+2022-10-04 16:48:29,966 INFO     2022-10-04 16:48:29, 47 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0236, Data time: 0.0003, Batch time: 0.3024
+2022-10-04 16:50:31,247 INFO     2022-10-04 16:50:31, 47 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0355, Data time: 0.0003, Batch time: 0.3030
+2022-10-04 16:52:32,566 INFO     2022-10-04 16:52:32, 47 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0318, Data time: 0.0003, Batch time: 0.3030
+2022-10-04 16:54:33,814 INFO     2022-10-04 16:54:33, 47 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0335, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 16:56:35,012 INFO     2022-10-04 16:56:35, 47 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0316, Data time: 0.0003, Batch time: 0.3027
+2022-10-04 16:58:36,226 INFO     2022-10-04 16:58:36, 47 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0453, Data time: 0.0003, Batch time: 0.3033
+2022-10-04 17:00:37,453 INFO     2022-10-04 17:00:37, 47 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0209, Data time: 0.0003, Batch time: 0.3025
+2022-10-04 17:02:38,677 INFO     2022-10-04 17:02:38, 47 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0450, Data time: 0.0003, Batch time: 0.3024
+2022-10-04 17:04:39,911 INFO     2022-10-04 17:04:39, 47 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0422, Data time: 0.0003, Batch time: 0.3035
+2022-10-04 17:06:19,693 INFO     ====== star eval ======
+2022-10-04 17:06:20,110 INFO     2022-10-04 17:06:20, 47 Epoch, 0 Iter, Loss: 0.0968, Data time: 0.3267, Batch time: 0.4156
+2022-10-04 17:06:54,955 INFO     2022-10-04 17:06:54, 47 Epoch, 400 Iter, Loss: 0.0026, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 17:07:29,812 INFO     2022-10-04 17:07:29, 47 Epoch, 800 Iter, Loss: 0.0314, Data time: 0.0003, Batch time: 0.0870
+2022-10-04 17:08:04,671 INFO     2022-10-04 17:08:04, 47 Epoch, 1200 Iter, Loss: 0.0310, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 17:08:39,519 INFO     2022-10-04 17:08:39, 47 Epoch, 1600 Iter, Loss: 0.0357, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 17:09:14,360 INFO     2022-10-04 17:09:14, 47 Epoch, 2000 Iter, Loss: 0.0207, Data time: 0.0002, Batch time: 0.0870
+2022-10-04 17:09:49,196 INFO     2022-10-04 17:09:49, 47 Epoch, 2400 Iter, Loss: 0.0336, Data time: 0.0002, Batch time: 0.0869
+2022-10-04 17:10:32,246 INFO     * Test
+2022-10-04 17:10:32,247 INFO     tensor([0.9642, 0.7128, 0.5401, 0.8692, 0.9528, 0.9572, 0.9708, 0.8913, 0.6865,
+        0.8059, 0.8204, 0.9099, 0.7053, 0.7563, 0.7608, 0.9353, 0.8910, 0.8405,
+        0.8938, 0.8148, 0.9648, 0.6917, 0.8050, 0.8326, 0.8406, 0.9316, 0.7805,
+        0.8002, 0.9086, 0.8554, 0.9849, 0.8595, 0.7943, 0.9388, 0.9956, 0.3941,
+        0.5717, 0.9439, 0.8072, 0.8957, 0.9710, 0.7149, 0.9067, 0.8284, 0.9387,
+        0.8871, 0.8255, 0.8875, 0.6982, 0.9914, 0.9475, 0.7090, 0.8200, 0.8248,
+        0.7771, 0.6729, 0.9573, 0.9202, 0.9725, 0.9534, 0.8774, 0.6666, 0.8803,
+        0.8146, 0.7768, 0.9640, 0.8828, 0.9901, 0.8552, 0.3553, 0.9781, 0.7414,
+        0.8635, 0.9681, 0.7655, 0.8956, 0.8731, 0.8046, 0.7901, 0.9946])
+2022-10-04 17:10:32,248 INFO     * Loss: 0.0414	 mAP: 0.8402	Data_time: 0.0004	 Batch_time: 0.0871
+2022-10-04 17:10:32,248 INFO     OP: 0.862	 OR: 0.765	 OF1: 0.810	CP: 0.848	 CR: 0.736	 CF1: 0.788
+2022-10-04 17:10:32,248 INFO     OP_3: 0.908	 OR_3: 0.671	 OF1_3: 0.772	CP_3: 0.887	 CR_3: 0.654	 CF1_3: 0.753
+2022-10-04 17:10:32,248 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 17:10:32,250 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 17:10:32,570 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 17:10:42,882 INFO      * best mAP=0.8412
+2022-10-04 17:10:43,544 INFO     2022-10-04 17:10:43, 48 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0273, Data time: 0.3523, Batch time: 0.6567
+2022-10-04 17:12:44,073 INFO     2022-10-04 17:12:44, 48 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0446, Data time: 0.0003, Batch time: 0.3022
+2022-10-04 17:14:45,193 INFO     2022-10-04 17:14:45, 48 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0292, Data time: 0.0003, Batch time: 0.3022
+2022-10-04 17:16:46,336 INFO     2022-10-04 17:16:46, 48 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0435, Data time: 0.0003, Batch time: 0.3022
+2022-10-04 17:18:47,457 INFO     2022-10-04 17:18:47, 48 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0351, Data time: 0.0003, Batch time: 0.3024
+2022-10-04 17:20:48,724 INFO     2022-10-04 17:20:48, 48 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0278, Data time: 0.0005, Batch time: 0.3037
+2022-10-04 17:22:50,375 INFO     2022-10-04 17:22:50, 48 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0316, Data time: 0.0004, Batch time: 0.3054
+2022-10-04 17:24:52,345 INFO     2022-10-04 17:24:52, 48 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0395, Data time: 0.0004, Batch time: 0.3046
+2022-10-04 17:26:54,273 INFO     2022-10-04 17:26:54, 48 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0397, Data time: 0.0005, Batch time: 0.3047
+2022-10-04 17:28:56,313 INFO     2022-10-04 17:28:56, 48 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0315, Data time: 0.0003, Batch time: 0.3037
+2022-10-04 17:30:58,186 INFO     2022-10-04 17:30:58, 48 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0312, Data time: 0.0003, Batch time: 0.3033
+2022-10-04 17:33:00,144 INFO     2022-10-04 17:33:00, 48 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0494, Data time: 0.0004, Batch time: 0.3049
+2022-10-04 17:35:01,896 INFO     2022-10-04 17:35:01, 48 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0380, Data time: 0.0003, Batch time: 0.3031
+2022-10-04 17:36:42,397 INFO     ====== star eval ======
+2022-10-04 17:36:42,855 INFO     2022-10-04 17:36:42, 48 Epoch, 0 Iter, Loss: 0.0978, Data time: 0.3665, Batch time: 0.4563
+2022-10-04 17:37:17,974 INFO     2022-10-04 17:37:17, 48 Epoch, 400 Iter, Loss: 0.0043, Data time: 0.0003, Batch time: 0.0875
+2022-10-04 17:37:53,206 INFO     2022-10-04 17:37:53, 48 Epoch, 800 Iter, Loss: 0.0306, Data time: 0.0003, Batch time: 0.0880
+2022-10-04 17:38:28,469 INFO     2022-10-04 17:38:28, 48 Epoch, 1200 Iter, Loss: 0.0303, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 17:39:03,593 INFO     2022-10-04 17:39:03, 48 Epoch, 1600 Iter, Loss: 0.0362, Data time: 0.0002, Batch time: 0.0876
+2022-10-04 17:39:38,708 INFO     2022-10-04 17:39:38, 48 Epoch, 2000 Iter, Loss: 0.0184, Data time: 0.0002, Batch time: 0.0883
+2022-10-04 17:40:13,918 INFO     2022-10-04 17:40:13, 48 Epoch, 2400 Iter, Loss: 0.0321, Data time: 0.0002, Batch time: 0.0873
+2022-10-04 17:40:58,818 INFO     * Test
+2022-10-04 17:40:58,818 INFO     tensor([0.9650, 0.7158, 0.5393, 0.8698, 0.9520, 0.9579, 0.9728, 0.8921, 0.6856,
+        0.8029, 0.8192, 0.9096, 0.7049, 0.7568, 0.7616, 0.9349, 0.8918, 0.8411,
+        0.8930, 0.8151, 0.9651, 0.6921, 0.8049, 0.8334, 0.8399, 0.9314, 0.7802,
+        0.8001, 0.9088, 0.8571, 0.9851, 0.8579, 0.7932, 0.9396, 0.9954, 0.3857,
+        0.5732, 0.9441, 0.8060, 0.8960, 0.9685, 0.7167, 0.9073, 0.8304, 0.9379,
+        0.8848, 0.8262, 0.8873, 0.7015, 0.9915, 0.9478, 0.7089, 0.8195, 0.8262,
+        0.7797, 0.6750, 0.9576, 0.9198, 0.9721, 0.9526, 0.8774, 0.6651, 0.8804,
+        0.8133, 0.7774, 0.9632, 0.8811, 0.9901, 0.8557, 0.3541, 0.9778, 0.7391,
+        0.8640, 0.9677, 0.7666, 0.8957, 0.8707, 0.8052, 0.7923, 0.9946])
+2022-10-04 17:40:58,819 INFO     * Loss: 0.0410	 mAP: 0.8402	Data_time: 0.0004	 Batch_time: 0.0880
+2022-10-04 17:40:58,819 INFO     OP: 0.869	 OR: 0.759	 OF1: 0.811	CP: 0.857	 CR: 0.731	 CF1: 0.789
+2022-10-04 17:40:58,819 INFO     OP_3: 0.911	 OR_3: 0.669	 OF1_3: 0.771	CP_3: 0.891	 CR_3: 0.651	 CF1_3: 0.752
+2022-10-04 17:40:58,819 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 17:40:58,821 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 17:40:59,164 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 17:41:09,702 INFO      * best mAP=0.8412
+2022-10-04 17:41:10,388 INFO     2022-10-04 17:41:10, 49 Epoch, lrp:0.00000005, lr:0.00000050, 0 Iter, Loss: 0.0337, Data time: 0.3753, Batch time: 0.6801
+2022-10-04 17:43:11,939 INFO     2022-10-04 17:43:11, 49 Epoch, lrp:0.00000005, lr:0.00000050, 400 Iter, Loss: 0.0391, Data time: 0.0003, Batch time: 0.3049
+2022-10-04 17:45:13,912 INFO     2022-10-04 17:45:13, 49 Epoch, lrp:0.00000005, lr:0.00000050, 800 Iter, Loss: 0.0306, Data time: 0.0004, Batch time: 0.3050
+2022-10-04 17:47:15,772 INFO     2022-10-04 17:47:15, 49 Epoch, lrp:0.00000005, lr:0.00000050, 1200 Iter, Loss: 0.0490, Data time: 0.0003, Batch time: 0.3034
+2022-10-04 17:49:17,825 INFO     2022-10-04 17:49:17, 49 Epoch, lrp:0.00000005, lr:0.00000050, 1600 Iter, Loss: 0.0338, Data time: 0.0003, Batch time: 0.3039
+2022-10-04 17:51:19,821 INFO     2022-10-04 17:51:19, 49 Epoch, lrp:0.00000005, lr:0.00000050, 2000 Iter, Loss: 0.0261, Data time: 0.0003, Batch time: 0.3044
+2022-10-04 17:53:21,668 INFO     2022-10-04 17:53:21, 49 Epoch, lrp:0.00000005, lr:0.00000050, 2400 Iter, Loss: 0.0294, Data time: 0.0003, Batch time: 0.3039
+2022-10-04 17:55:23,642 INFO     2022-10-04 17:55:23, 49 Epoch, lrp:0.00000005, lr:0.00000050, 2800 Iter, Loss: 0.0166, Data time: 0.0004, Batch time: 0.3058
+2022-10-04 17:57:25,607 INFO     2022-10-04 17:57:25, 49 Epoch, lrp:0.00000005, lr:0.00000050, 3200 Iter, Loss: 0.0413, Data time: 0.0003, Batch time: 0.3041
+2022-10-04 17:59:27,533 INFO     2022-10-04 17:59:27, 49 Epoch, lrp:0.00000005, lr:0.00000050, 3600 Iter, Loss: 0.0329, Data time: 0.0004, Batch time: 0.3039
+2022-10-04 18:01:29,494 INFO     2022-10-04 18:01:29, 49 Epoch, lrp:0.00000005, lr:0.00000050, 4000 Iter, Loss: 0.0298, Data time: 0.0003, Batch time: 0.3041
+2022-10-04 18:03:31,492 INFO     2022-10-04 18:03:31, 49 Epoch, lrp:0.00000005, lr:0.00000050, 4400 Iter, Loss: 0.0199, Data time: 0.0003, Batch time: 0.3040
+2022-10-04 18:05:33,380 INFO     2022-10-04 18:05:33, 49 Epoch, lrp:0.00000005, lr:0.00000050, 4800 Iter, Loss: 0.0189, Data time: 0.0006, Batch time: 0.3049
+2022-10-04 18:07:13,851 INFO     ====== star eval ======
+2022-10-04 18:07:14,277 INFO     2022-10-04 18:07:14, 49 Epoch, 0 Iter, Loss: 0.0986, Data time: 0.3363, Batch time: 0.4253
+2022-10-04 18:07:49,296 INFO     2022-10-04 18:07:49, 49 Epoch, 400 Iter, Loss: 0.0042, Data time: 0.0003, Batch time: 0.0883
+2022-10-04 18:08:24,427 INFO     2022-10-04 18:08:24, 49 Epoch, 800 Iter, Loss: 0.0317, Data time: 0.0003, Batch time: 0.0873
+2022-10-04 18:08:59,448 INFO     2022-10-04 18:08:59, 49 Epoch, 1200 Iter, Loss: 0.0306, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 18:09:34,436 INFO     2022-10-04 18:09:34, 49 Epoch, 1600 Iter, Loss: 0.0355, Data time: 0.0002, Batch time: 0.0872
+2022-10-04 18:10:09,424 INFO     2022-10-04 18:10:09, 49 Epoch, 2000 Iter, Loss: 0.0203, Data time: 0.0003, Batch time: 0.0882
+2022-10-04 18:10:44,578 INFO     2022-10-04 18:10:44, 49 Epoch, 2400 Iter, Loss: 0.0324, Data time: 0.0003, Batch time: 0.0879
+2022-10-04 18:11:28,945 INFO     * Test
+2022-10-04 18:11:28,945 INFO     tensor([0.9653, 0.7126, 0.5383, 0.8682, 0.9530, 0.9570, 0.9716, 0.8926, 0.6865,
+        0.8055, 0.8195, 0.9111, 0.7058, 0.7567, 0.7603, 0.9352, 0.8912, 0.8428,
+        0.8933, 0.8132, 0.9648, 0.6920, 0.8061, 0.8332, 0.8396, 0.9312, 0.7803,
+        0.8001, 0.9087, 0.8549, 0.9842, 0.8622, 0.7930, 0.9389, 0.9955, 0.3868,
+        0.5729, 0.9430, 0.8053, 0.8959, 0.9701, 0.7160, 0.9070, 0.8295, 0.9393,
+        0.8860, 0.8252, 0.8856, 0.7017, 0.9914, 0.9473, 0.7086, 0.8187, 0.8247,
+        0.7747, 0.6768, 0.9575, 0.9194, 0.9722, 0.9525, 0.8759, 0.6645, 0.8810,
+        0.8130, 0.7776, 0.9643, 0.8820, 0.9902, 0.8554, 0.3497, 0.9780, 0.7397,
+        0.8638, 0.9677, 0.7658, 0.8952, 0.8734, 0.8063, 0.7901, 0.9946])
+2022-10-04 18:11:28,946 INFO     * Loss: 0.0411	 mAP: 0.8400	Data_time: 0.0004	 Batch_time: 0.0877
+2022-10-04 18:11:28,946 INFO     OP: 0.864	 OR: 0.763	 OF1: 0.811	CP: 0.851	 CR: 0.735	 CF1: 0.789
+2022-10-04 18:11:28,946 INFO     OP_3: 0.908	 OR_3: 0.671	 OF1_3: 0.772	CP_3: 0.887	 CR_3: 0.653	 CF1_3: 0.752
+2022-10-04 18:11:28,947 INFO     Now lrp:0.00000005, lr:0.00000050
+2022-10-04 18:11:28,949 INFO     Save checkpoint to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/checkpoint.pth
+2022-10-04 18:11:29,282 INFO     Save results to ./checkpoint/COCO2014/ADD_GCN/AdamW_COCO_lr_5e5_lrp_01_bs16_wor2/results.csv
+2022-10-04 18:11:39,970 INFO      * best mAP=0.8412
